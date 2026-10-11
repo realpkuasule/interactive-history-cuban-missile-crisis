@@ -1,0 +1,6212 @@
+{
+  "parameterOrigin": "reconstructed_design",
+  "intent": "script_redesign",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080
+  },
+  "style": {
+    "motif": "archive",
+    "rationale": "使用侦察照片及明确标注10月29日的会议照片；档案格线、公开/秘密渠道并排，分开承诺和执行。 卡片采用分层纸面、细内线、字重层级；档案索引边条与折角为现代解释设计，不仿造真实档案标识。 新增古巴立场、证据类型和撤运执行图版；仅用已验收的有限原生配方与具体作品数据。",
+    "background": "#142b36",
+    "ink": "#e5e9e5",
+    "accent": "#dfab64",
+    "secondary": "#77bbb4",
+    "card": {
+      "fill": "#e6e9df",
+      "ink": "#18333b",
+      "muted": "#45616a",
+      "edge": "#77bbb4",
+      "rule": "#9faeaa",
+      "shadow": "#091a23"
+    },
+    "typography": {
+      "heading": 650,
+      "body": 450,
+      "label": 550
+    }
+  },
+  "frames": 27493,
+  "shots": [
+    {
+      "id": "cuba-before-crisis-beat-1",
+      "nodeId": "cuba-before-crisis",
+      "startFrame": 0,
+      "endFrame": 731,
+      "durationFrames": 731,
+      "purpose": "以古巴自身处境引出核心安全问题",
+      "narration": [
+        "1962年，为什么一座加勒比海岛屿，会把美苏推到核战争边缘？要理解这场危机，得先看看古巴人此前经历了什么。1959年，卡斯特罗领导的新政权取代巴蒂斯塔政府。古巴随后接收美国在岛上的经济资产，又逐渐靠近苏联。华盛顿担心社会主义阵营来到家门口，哈瓦那担心的却是美国会不会推翻自己。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "美国政府",
+            "detail": "邻近的冷战威胁",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "古巴政府",
+            "detail": "政权与主权的危险",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "安全理解冲突",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "baypigs"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-castro-portrait",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "卡斯特罗，1959年4月15日；人物辨认，非危机现场。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 10.965,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 24.366666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-cuba-before-crisis",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-3cec14a9b6dac89302ba43c15147e764c39b90ede721984994a05260989d00df/result.json",
+          "sha256": "256f795c211547685641af0fc2c4af6955435040a8944d79882fac05b6089f98"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "cuba-before-crisis-beat-2",
+      "nodeId": "cuba-before-crisis",
+      "startFrame": 731,
+      "endFrame": 1094,
+      "durationFrames": 363,
+      "purpose": "把再次入侵的恐惧接到已发生的行动",
+      "narration": [
+        "1961年4月17日，美国中央情报局训练、资助的古巴流亡者部队在猪湾登陆，大约两天后失败。美国此后仍推动代号“猫鼬”的秘密行动，企图推翻卡斯特罗。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "猪湾登陆",
+            "detail": "美国训练、资助流亡者",
+            "position": [
+              0.19,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "登陆失败",
+            "detail": "约两天后失败",
+            "position": [
+              0.5,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          },
+          {
+            "id": "item-3",
+            "label": "猫鼬行动",
+            "detail": "推翻政权的目标仍在",
+            "position": [
+              0.81,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.07,
+              0.29000000000000004
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "行动结果",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "baypigs"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.345,
+              0.27
+            ]
+          },
+          {
+            "id": "relation-2",
+            "from": "item-2",
+            "to": "item-3",
+            "label": "随后继续施压",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "baypigs"
+            ],
+            "enter": [
+              0.2,
+              0.44
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.655,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 5.445,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 12.1,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-cuba-before-crisis",
+        "startCueId": "run-0-c16",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-3cec14a9b6dac89302ba43c15147e764c39b90ede721984994a05260989d00df/result.json",
+          "sha256": "256f795c211547685641af0fc2c4af6955435040a8944d79882fac05b6089f98"
+        },
+        "boundaryReason": "精确起始短语“1961年4月17日”对应实际cue起头“一九六一年四月十七日”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。"
+      }
+    },
+    {
+      "id": "cuba-before-crisis-beat-3",
+      "nodeId": "cuba-before-crisis",
+      "startFrame": 1094,
+      "endFrame": 1523,
+      "durationFrames": 429,
+      "purpose": "区分威胁经验、预期与已知命令",
+      "narration": [
+        "对古巴领导人来说，再次入侵并不是遥远的想象。不过，害怕入侵，不等于知道美国已经决定哪一天动手。正是在这种威胁和不确定中，古巴与苏联作出了下一步选择。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "再次入侵的恐惧",
+            "detail": "有此前干预经历",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "确定入侵日期",
+            "detail": "古巴并未掌握",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "恐惧不等于知情",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "baypigs"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.4350000000000005,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 14.3,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-cuba-before-crisis",
+        "startCueId": "run-0-c23",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-3cec14a9b6dac89302ba43c15147e764c39b90ede721984994a05260989d00df/result.json",
+          "sha256": "256f795c211547685641af0fc2c4af6955435040a8944d79882fac05b6089f98"
+        },
+        "boundaryReason": "精确起始短语“对古巴领导人来说”对应实际cue起头“对古巴领导人来说”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "deployment-and-security-beat-1",
+      "nodeId": "deployment-and-security",
+      "startFrame": 1523,
+      "endFrame": 2135,
+      "durationFrames": 612,
+      "purpose": "显示苏古部署选择和古巴的防御期待",
+      "narration": [
+        "1962年夏，赫鲁晓夫与古巴方面秘密商定，把苏联核导弹部署到岛上。古巴希望让美国明白：再次入侵，会付出难以承受的代价。赫鲁晓夫也在信中强调古巴的防御，并反问，美国可以把基地和导弹放在苏联周边，苏联为什么不能援助自己的盟友？"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "赫鲁晓夫",
+            "detail": "秘密商定核导弹部署",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "古巴的期待",
+            "detail": "提高再次入侵代价",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "援助与共同目标",
+            "semantics": "alliance",
+            "status": "reviewed",
+            "sourceIds": [
+              "state",
+              "letter26"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-khrushchev-portrait",
+            "x": 0.12,
+            "y": 0.17,
+            "width": 0.12,
+            "height": 0.22,
+            "caption": "赫鲁晓夫，1963年1月21日；非危机现场。",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.18,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.4,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-deployment-and-security",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-07a902b72fa24ffb5c6fd707d3b816011d8622cf1c422f2812912dab779de617/result.json",
+          "sha256": "e2999ffa3521ad199851b176f06dd67b3293b1d82471afa09d9d5a87e51a9a31"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "deployment-and-security-beat-2",
+      "nodeId": "deployment-and-security",
+      "startFrame": 2135,
+      "endFrame": 2615,
+      "durationFrames": 480,
+      "purpose": "从部署转到不同的安全判断",
+      "narration": [
+        "但站在美国政府的角度，能够从邻近岛屿打击美国的核导弹，又是在秘密中运来的，显然构成了新的威胁。同一批武器，在一方眼中是保障安全，在另一方眼中却让自己更加不安全。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "美国的判断",
+            "detail": "邻近、秘密、可打击美国",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "苏方的反问",
+            "detail": "美国也在苏联周边部署",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "安全判断相冲突",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "state",
+              "frus91",
+              "letter26"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.2,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 16,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-deployment-and-security",
+        "startCueId": "run-0-c13",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-07a902b72fa24ffb5c6fd707d3b816011d8622cf1c422f2812912dab779de617/result.json",
+          "sha256": "e2999ffa3521ad199851b176f06dd67b3293b1d82471afa09d9d5a87e51a9a31"
+        },
+        "boundaryReason": "精确起始短语“但站在美国政府的角度”对应实际cue起头“但站在美国政府的”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。短语跨相邻cue，选覆盖其开头的这个cue；无需虚构短语内部时间。"
+      }
+    },
+    {
+      "id": "deployment-and-security-beat-3",
+      "nodeId": "deployment-and-security",
+      "startFrame": 2615,
+      "endFrame": 3018,
+      "durationFrames": 403,
+      "purpose": "提前交代盟友目标与控制权不一致",
+      "narration": [
+        "与此同时，古巴同意部署，并不意味着卡斯特罗可以决定苏联核武器怎样使用；苏联以后怎样谈撤除，也未必会让古巴满意。这场危机从一开始，就不只有两个大国的意志。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "古巴同意部署",
+            "detail": "期待加强防御",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "苏联控制核武",
+            "detail": "使用及撤除由苏方决定",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "共同目标≠同等控制",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "state",
+              "frus91"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.045,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 13.433333333333334,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-deployment-and-security",
+        "startCueId": "run-0-c23",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-07a902b72fa24ffb5c6fd707d3b816011d8622cf1c422f2812912dab779de617/result.json",
+          "sha256": "e2999ffa3521ad199851b176f06dd67b3293b1d82471afa09d9d5a87e51a9a31"
+        },
+        "boundaryReason": "精确起始短语“与此同时，古巴同意部署”对应实际cue起头“与此同时”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。短语跨相邻cue，选覆盖其开头的这个cue；无需虚构短语内部时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "discovery-14-beat-1",
+      "nodeId": "discovery-14",
+      "startFrame": 3018,
+      "endFrame": 3633,
+      "durationFrames": 615,
+      "purpose": "分开照片拍摄与总统获知",
+      "narration": [
+        "秘密部署终于被发现。10月14日，美国U-2侦察机拍到了圣克里斯托瓦尔一带的导弹设施。照片还要经过处理和专业判读，消息才能进入总统的决策。肯尼迪是在10月16日早晨听取简报的。后来人们常说的“十三天”，就是从16日算到28日。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "10月14日",
+            "detail": "U-2拍摄导弹设施",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "10月16日",
+            "detail": "肯尼迪听取简报",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "处理与专业判读",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "photo-nara",
+              "jfk16"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-san-cristobal-14oct",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "圣克里斯托瓦尔，1962年10月14日；侦察图及原始标注。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.225,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.5,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-discovery-14",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-d3a55accb93373aab6b5802683b4a90506ed7f3aa75d7422496fff2a500e9a61/result.json",
+          "sha256": "e68d4b92925460979ab121a8a61e5e6b8eb27c24db336a41615fccd4b2f5a0d8"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "discovery-14-beat-2",
+      "nodeId": "discovery-14",
+      "startFrame": 3633,
+      "endFrame": 4260,
+      "durationFrames": 627,
+      "purpose": "把证据已经回答和仍待判断的问题分开",
+      "narration": [
+        "对肯尼迪来说，照片让怀疑变成了必须处理的具体问题，却没有让所有疑问消失：发射场什么时候能用？还有多少武器没有发现？如果下令攻击，能不能一次清除全部威胁？看见设施，并不等于掌握全部核弹头的位置，更不等于知道莫斯科接下来会怎么做。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "已经看见",
+            "detail": "导弹发射设施",
+            "position": [
+              0.19,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "仍待判断",
+            "detail": "完成程度与未发现武器",
+            "position": [
+              0.5,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          },
+          {
+            "id": "item-3",
+            "label": "行动难题",
+            "detail": "能否清除全部威胁",
+            "position": [
+              0.81,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.07,
+              0.29000000000000004
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "证据仍有边界",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk16"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.345,
+              0.27
+            ]
+          },
+          {
+            "id": "relation-2",
+            "from": "item-2",
+            "to": "item-3",
+            "label": "影响政策选择",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk16"
+            ],
+            "enter": [
+              0.2,
+              0.44
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.655,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.405,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.9,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-discovery-14",
+        "startCueId": "run-0-c11",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-d3a55accb93373aab6b5802683b4a90506ed7f3aa75d7422496fff2a500e9a61/result.json",
+          "sha256": "e68d4b92925460979ab121a8a61e5e6b8eb27c24db336a41615fccd4b2f5a0d8"
+        },
+        "boundaryReason": "精确起始短语“对肯尼迪来说”对应实际cue起头“对肯尼迪来说”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。"
+      }
+    },
+    {
+      "id": "discovery-14-beat-3",
+      "nodeId": "discovery-14",
+      "startFrame": 4260,
+      "endFrame": 4413,
+      "durationFrames": 153,
+      "purpose": "转入有限信息条件下的政策决策",
+      "narration": [
+        "总统和顾问们必须在信息不完整的情况下，决定美国如何回应。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "信息仍不完整",
+            "detail": "不知道对方下一步",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "必须作出回应",
+            "detail": "不能等到疑问全部消失",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "不确定中的选择",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk16"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 2.295,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 5.1,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-discovery-14",
+        "startCueId": "run-0-c22",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-d3a55accb93373aab6b5802683b4a90506ed7f3aa75d7422496fff2a500e9a61/result.json",
+          "sha256": "e68d4b92925460979ab121a8a61e5e6b8eb27c24db336a41615fccd4b2f5a0d8"
+        },
+        "boundaryReason": "精确起始短语“总统和顾问们必须”对应实际cue起头“总统和顾问们必须在信息不完整的”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "choices-16-20-beat-1",
+      "nodeId": "choices-16-20",
+      "startFrame": 4413,
+      "endFrame": 4902,
+      "durationFrames": 489,
+      "purpose": "并列两条真实政策方向",
+      "narration": [
+        "从16日起，肯尼迪与核心顾问反复讨论。一个办法是空袭导弹设施，必要时进一步入侵。另一个办法，是先实行海上隔离，阻止新的进攻性装备进入，同时继续交涉。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "空袭与入侵",
+            "detail": "直接打击导弹设施",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "隔离与交涉",
+            "detail": "先阻止新装备运入",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "顾问讨论不同选择",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk16",
+              "jfk20"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.335000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 16.3,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-choices-16-20",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-52a9f4a37d69875845cc5746dafcb8598e93a204a5662d8cbf73675c8ca4b8cc/result.json",
+          "sha256": "e4f6011e5056e6adf63424a27248585ad1bd27ab17a156d934198a8a4a717a3f"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "choices-16-20-beat-2",
+      "nodeId": "choices-16-20",
+      "startFrame": 4902,
+      "endFrame": 5513,
+      "durationFrames": 611,
+      "purpose": "展开军事选项没有解决的风险",
+      "narration": [
+        "空袭看起来直接，但谁也不能轻易保证所有目标都能摧毁。如果苏联人员大量伤亡，莫斯科又会在哪里、以什么方式还击？入侵会把这些风险进一步放大。海上隔离也有明显弱点：它挡不住已经在岛上的导弹，却能让美国分步施压，给下一轮决定留出时间。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "清除全部目标？",
+            "detail": "不能轻易保证",
+            "position": [
+              0.19,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "苏方怎样回应？",
+            "detail": "人员伤亡可能升级",
+            "position": [
+              0.5,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          },
+          {
+            "id": "item-3",
+            "label": "进一步入侵",
+            "detail": "战斗和风险扩大",
+            "position": [
+              0.81,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.07,
+              0.29000000000000004
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "行动后果待判断",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk16",
+              "jfk27"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.345,
+              0.27
+            ]
+          },
+          {
+            "id": "relation-2",
+            "from": "item-2",
+            "to": "item-3",
+            "label": "风险继续增加",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk16",
+              "jfk27"
+            ],
+            "enter": [
+              0.2,
+              0.44
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.655,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.165000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.366666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-choices-16-20",
+        "startCueId": "run-0-c10",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-52a9f4a37d69875845cc5746dafcb8598e93a204a5662d8cbf73675c8ca4b8cc/result.json",
+          "sha256": "e4f6011e5056e6adf63424a27248585ad1bd27ab17a156d934198a8a4a717a3f"
+        },
+        "boundaryReason": "精确起始短语“空袭看起来直接”对应实际cue起头“空袭看起来直接”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。"
+      }
+    },
+    {
+      "id": "choices-16-20-beat-3",
+      "nodeId": "choices-16-20",
+      "startFrame": 5513,
+      "endFrame": 6084,
+      "durationFrames": 571,
+      "purpose": "交代决定与保留的后续空间",
+      "narration": [
+        "10月20日，肯尼迪选择了隔离。这个决定并没有终止军事准备，也没有保证外交一定成功。顾问们此前已经讨论了好几天，正式的执行委员会到22日才成立。真正关键的，是总统暂时没有把自己锁进立即开战的道路。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "10月20日决定",
+            "detail": "先采用海上隔离",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "继续留有选择",
+            "detail": "军事准备与外交并行",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "暂不立即开战",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk20",
+              "jfk22"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-kennedy-portrait",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "肯尼迪，1963年7月11日；人物辨认，非危机现场。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 8.565000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 19.033333333333335,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-choices-16-20",
+        "startCueId": "run-0-c22",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-52a9f4a37d69875845cc5746dafcb8598e93a204a5662d8cbf73675c8ca4b8cc/result.json",
+          "sha256": "e4f6011e5056e6adf63424a27248585ad1bd27ab17a156d934198a8a4a717a3f"
+        },
+        "boundaryReason": "精确起始短语“10月20日”对应实际cue起头“十月二十日”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。短语跨相邻cue，选覆盖其开头的这个cue；无需虚构短语内部时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "signal-22-beat-1",
+      "nodeId": "signal-22",
+      "startFrame": 6084,
+      "endFrame": 6693,
+      "durationFrames": 609,
+      "purpose": "展示从秘密决策到公开承诺",
+      "narration": [
+        "10月22日晚7时，肯尼迪走到电视镜头前，向公众公布苏联在古巴部署导弹的情况，要求撤除，并宣布海上隔离。美国民众此时才知道的事，白宫已经秘密讨论了近一周。讲话把政府的要求变成公开承诺，也把压力传给苏联、盟友和国内社会。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "近一周秘密讨论",
+            "detail": "总统与顾问先行评估",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "22日电视讲话",
+            "detail": "公布部署并宣布隔离",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "转向公开对抗",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk22"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-kennedy-portrait",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "肯尼迪，1963年7月11日；人物辨认，非危机现场。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.135,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.3,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-signal-22",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-bfb4229ce72e261f2a5cbadbdfcc091fe8583325cc3e8eaf4811e7952f9b2b98/result.json",
+          "sha256": "cff9dd1b4df244ad84ce8bc45990c80ffafe0b86c879447015602fd100a87738"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "signal-22-beat-2",
+      "nodeId": "signal-22",
+      "startFrame": 6693,
+      "endFrame": 7097,
+      "durationFrames": 404,
+      "purpose": "将强硬要求与避免误判并置",
+      "narration": [
+        "同一天，肯尼迪还致信赫鲁晓夫，要求移除威胁，同时表达一个判断：对方不会有意把世界拖进谁都无法获胜的战争。强硬要求与防止误判，就这样放在同一次沟通里。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "美方要求",
+            "detail": "移除古巴核威胁",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "同时传递",
+            "detail": "避免无法获胜的战争",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "同一封信的两层信号",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "letter22"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.0600000000000005,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 13.466666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-signal-22",
+        "startCueId": "run-0-c13",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-bfb4229ce72e261f2a5cbadbdfcc091fe8583325cc3e8eaf4811e7952f9b2b98/result.json",
+          "sha256": "cff9dd1b4df244ad84ce8bc45990c80ffafe0b86c879447015602fd100a87738"
+        },
+        "boundaryReason": "精确起始短语“同一天，肯尼迪还致信”对应实际cue起头“同一天”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。短语跨相邻cue，选覆盖其开头的这个cue；无需虚构短语内部时间。"
+      }
+    },
+    {
+      "id": "signal-22-beat-3",
+      "nodeId": "signal-22",
+      "startFrame": 7097,
+      "endFrame": 7555,
+      "durationFrames": 458,
+      "purpose": "为后续双渠道解决铺垫",
+      "narration": [
+        "公开表态能争取支持，却也会让改变政策更加困难。因此，领导人在公开立场之外，还需要能试探退路的私下渠道。接下来，海上的实际接触会检验这些话究竟意味着什么。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "公开立场",
+            "detail": "支持与政治承诺",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "私下渠道",
+            "detail": "试探可以接受的退路",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "承诺增加调整代价",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk22",
+              "letter22"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.87,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 15.266666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-signal-22",
+        "startCueId": "run-0-c22",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-bfb4229ce72e261f2a5cbadbdfcc091fe8583325cc3e8eaf4811e7952f9b2b98/result.json",
+          "sha256": "cff9dd1b4df244ad84ce8bc45990c80ffafe0b86c879447015602fd100a87738"
+        },
+        "boundaryReason": "精确起始短语“公开表态能争取支持”对应实际cue起头“公开表态能争取支持”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "quarantine-24-beat-1",
+      "nodeId": "quarantine-24",
+      "startFrame": 7555,
+      "endFrame": 7968,
+      "durationFrames": 413,
+      "purpose": "明确隔离的范围与名称争议",
+      "narration": [
+        "美国把海上行动称为“隔离”，用这个词区别于通常意味着战争状态的“封锁”，也争取法律和地区支持。但苏联并不接受这套解释，赫鲁晓夫仍把行动视为胁迫和侵略。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "美国的用词",
+            "detail": "隔离：针对进攻性装备",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "苏联的理解",
+            "detail": "胁迫与侵略",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "名称不消除分歧",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "state"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-quarantine-signing",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "1962年10月23日签署隔离公告；早于24日实施。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.195,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 13.766666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-quarantine-24",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-9c13e85db038aef3ec3bb66a5e0c19ea5bdcafc21809cd07530356ada158f493/result.json",
+          "sha256": "90ae5b0479d5b51409c17a6af8d2d06317d6f0304391843eddad09d774889550"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "quarantine-24-beat-2",
+      "nodeId": "quarantine-24",
+      "startFrame": 7968,
+      "endFrame": 8503,
+      "durationFrames": 535,
+      "purpose": "用具体船只说明行动并非切断全部航运",
+      "narration": [
+        "隔离从24日开始，针对的是运往古巴的进攻性军事装备，并非禁止一切民用航运。一些苏联货船转向，一些经过检查，或者被认定没有运送违禁装备后，继续航行。25日，运送石油的“布加勒斯特”号就获准通过。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "一些货船转向",
+            "detail": "避免或推迟接触",
+            "position": [
+              0.19,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "有船继续航行",
+            "detail": "无违禁装备获放行",
+            "position": [
+              0.5,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          },
+          {
+            "id": "item-3",
+            "label": "25日布加勒斯特号",
+            "detail": "运送石油获准通过",
+            "position": [
+              0.81,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.07,
+              0.29000000000000004
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "航运按情况处置",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk24",
+              "jfk25"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.345,
+              0.27
+            ]
+          },
+          {
+            "id": "relation-2",
+            "from": "item-2",
+            "to": "item-3",
+            "label": "具体放行事例",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk24",
+              "jfk25"
+            ],
+            "enter": [
+              0.2,
+              0.44
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.655,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 8.025,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 17.833333333333332,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-quarantine-24",
+        "startCueId": "run-0-c8",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-9c13e85db038aef3ec3bb66a5e0c19ea5bdcafc21809cd07530356ada158f493/result.json",
+          "sha256": "90ae5b0479d5b51409c17a6af8d2d06317d6f0304391843eddad09d774889550"
+        },
+        "boundaryReason": "精确起始短语“隔离从24日开始”对应实际cue起头“隔离从二十四日开始”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。"
+      }
+    },
+    {
+      "id": "quarantine-24-beat-3",
+      "nodeId": "quarantine-24",
+      "startFrame": 8503,
+      "endFrame": 9073,
+      "durationFrames": 570,
+      "purpose": "连接争取时间与持续升级风险",
+      "narration": [
+        "船只转向给了双方一点喘息空间，却没有解决岛上的问题：已有的导弹设施仍在推进，海空部队也越来越接近。美国希望用压力换来撤弹，苏方却可能把持续施压理解为攻击的前奏。谈判多得到一天，危险并不一定少一天。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "海上施压",
+            "detail": "希望促成撤弹",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "岛上设施仍推进",
+            "detail": "海空部队相互接近",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "争取时间仍有风险",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "state",
+              "jfk24",
+              "jfk25"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 8.55,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 19,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-quarantine-24",
+        "startCueId": "run-0-c18",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-9c13e85db038aef3ec3bb66a5e0c19ea5bdcafc21809cd07530356ada158f493/result.json",
+          "sha256": "90ae5b0479d5b51409c17a6af8d2d06317d6f0304391843eddad09d774889550"
+        },
+        "boundaryReason": "精确起始短语“船只转向给了双方”对应实际cue起头“船只转向给了双方一点喘息空间”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "un-25-beat-1",
+      "nodeId": "un-25",
+      "startFrame": 9073,
+      "endFrame": 9487,
+      "durationFrames": 414,
+      "purpose": "展示情报受众和政治用途改变",
+      "narration": [
+        "25日，对抗也来到联合国。美国驻联合国代表史蒂文森在安理会展示侦察照片，质问苏联代表佐林。此前在秘密会议里讨论的图像，现在成了争取国际支持的证据。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "美国代表史蒂文森",
+            "detail": "展示侦察照片",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "苏联代表佐林",
+            "detail": "在安理会面对质问",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "公开证据争取支持",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk25"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-san-cristobal-14oct",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "圣克里斯托瓦尔，1962年10月14日；侦察图及原始标注。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.210000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 13.8,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-un-25",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-9bac25a29f402ae8e79687fa1aa627329c5453c3818f9ddaaffd213b0a55df63/result.json",
+          "sha256": "641edb90a7312438fd10ae7a8d0a4603164142c9d3fb89651b83d0a9472c7a3b"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "un-25-beat-2",
+      "nodeId": "un-25",
+      "startFrame": 9487,
+      "endFrame": 10009,
+      "durationFrames": 522,
+      "purpose": "呈现调解与安全条件之间的张力",
+      "narration": [
+        "联合国代理秘书长吴丹则尝试让双方缓和接触，给谈判争取时间。但暂缓行动，对美国也有风险：导弹可能继续留在岛上，甚至继续完成部署。对苏联来说，怎样保住古巴，又怎样让美国接受撤退条件，同样没有现成答案。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "吴丹的调解",
+            "detail": "缓和接触、争取时间",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "美国的担忧",
+            "detail": "暂缓期间导弹仍在",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "调解仍须谈条件",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk25",
+              "frus91"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.829999999999999,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 17.4,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-un-25",
+        "startCueId": "run-0-c9",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-9bac25a29f402ae8e79687fa1aa627329c5453c3818f9ddaaffd213b0a55df63/result.json",
+          "sha256": "641edb90a7312438fd10ae7a8d0a4603164142c9d3fb89651b83d0a9472c7a3b"
+        },
+        "boundaryReason": "精确起始短语“联合国代理秘书长吴丹”对应实际cue起头“联合国代理秘书长吴丹则尝试让双方缓和接触”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。"
+      }
+    },
+    {
+      "id": "un-25-beat-3",
+      "nodeId": "un-25",
+      "startFrame": 10009,
+      "endFrame": 10571,
+      "durationFrames": 562,
+      "purpose": "用三个执行问题把照片与协议区分",
+      "narration": [
+        "联合国提供了沟通与讨论核查的场所，却不能代替各方作出承诺。照片可以证明某些设施存在，但谁来检查，怎么确认撤走，有关国家是否同意，都还需要谈。就在公开对抗持续的时候，另一条可能的退路出现了。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "谁来检查",
+            "detail": "需要核查安排",
+            "position": [
+              0.19,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "怎样确认撤除",
+            "detail": "需要可验证的行动",
+            "position": [
+              0.5,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          },
+          {
+            "id": "item-3",
+            "label": "有关国家同意？",
+            "detail": "不能代替他国决定",
+            "position": [
+              0.81,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.07,
+              0.29000000000000004
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "从证据走向承诺",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "frus91"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.345,
+              0.27
+            ]
+          },
+          {
+            "id": "relation-2",
+            "from": "item-2",
+            "to": "item-3",
+            "label": "落实仍需同意",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "frus91"
+            ],
+            "enter": [
+              0.2,
+              0.44
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.655,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 8.430000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 18.733333333333334,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-un-25",
+        "startCueId": "run-0-c18",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-9bac25a29f402ae8e79687fa1aa627329c5453c3818f9ddaaffd213b0a55df63/result.json",
+          "sha256": "641edb90a7312438fd10ae7a8d0a4603164142c9d3fb89651b83d0a9472c7a3b"
+        },
+        "boundaryReason": "精确起始短语“联合国提供了沟通”对应实际cue起头“联合国提供了沟通与讨论核查的”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "proposal-26-beat-1",
+      "nodeId": "proposal-26",
+      "startFrame": 10571,
+      "endFrame": 10829,
+      "durationFrames": 258,
+      "purpose": "辨认中介与正式来信两条不同身份",
+      "narration": [
+        "26日，记者约翰·斯卡利接到苏联使馆人员福明传来的方案。同一天，赫鲁晓夫的长信也抵达华盛顿。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "斯卡利接触福明",
+            "detail": "中介传来的方案",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "赫鲁晓夫26日信",
+            "detail": "领导人正式来信",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "相近方向，非同一身份",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk26",
+              "letter26"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 3.87,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 8.6,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-proposal-26",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-6fb2dc803ac1dbc9a677fab19ca047db6d4412dd45538c7f7e314ad626751b90/result.json",
+          "sha256": "ab31360d6e2b441f9163373e9d76eed59923265f4840465ea10c778dac42d5b7"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "proposal-26-beat-2",
+      "nodeId": "proposal-26",
+      "startFrame": 10829,
+      "endFrame": 11524,
+      "durationFrames": 695,
+      "purpose": "展示26日可以讨论的核心退路",
+      "narration": [
+        "两条渠道指向相近的方向：如果美国保证不入侵古巴，撤除有关武器就有了谈判基础。赫鲁晓夫在信中反复谈到战争失控的危险。他强调，苏联援古是为了防御；如果古巴不再遭受攻击的威胁，部署武器的需要也会改变。这还不是协议，但双方终于能够讨论一种交换承诺、共同后退的可能。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "美国不入侵古巴",
+            "detail": "回应古巴安全",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "撤除有关武器",
+            "detail": "苏方愿讨论的方向",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "可以谈判的基础",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk26",
+              "letter26"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-khrushchev-portrait",
+            "x": 0.12,
+            "y": 0.17,
+            "width": 0.12,
+            "height": 0.22,
+            "caption": "赫鲁晓夫，1963年1月21日；非危机现场。",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 10.425,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 23.166666666666668,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-proposal-26",
+        "startCueId": "run-0-c7",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-6fb2dc803ac1dbc9a677fab19ca047db6d4412dd45538c7f7e314ad626751b90/result.json",
+          "sha256": "ab31360d6e2b441f9163373e9d76eed59923265f4840465ea10c778dac42d5b7"
+        },
+        "boundaryReason": "精确起始短语“两条渠道指向相近的方向”对应实际cue起头“两条渠道指向相近的”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。短语跨相邻cue，选覆盖其开头的这个cue；无需虚构短语内部时间。"
+      }
+    },
+    {
+      "id": "proposal-26-beat-3",
+      "nodeId": "proposal-26",
+      "startFrame": 11524,
+      "endFrame": 12001,
+      "durationFrames": 477,
+      "purpose": "保留授权核实与军事现场的时间压力",
+      "narration": [
+        "华盛顿仍然要判断，中间人的传话有没有充分授权，正式来信又能落实到什么程度。相近的消息，也不能直接当成同一条指挥链的产物。更紧迫的是，外交的窗口打开了，军事行动却没有停下来。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "核实传话与承诺",
+            "detail": "授权、含义、执行",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "军事行动未停",
+            "detail": "窗口打开不等于安全",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "退路仍待落实",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk26",
+              "letter26"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.155,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 15.9,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-proposal-26",
+        "startCueId": "run-0-c23",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-6fb2dc803ac1dbc9a677fab19ca047db6d4412dd45538c7f7e314ad626751b90/result.json",
+          "sha256": "ab31360d6e2b441f9163373e9d76eed59923265f4840465ea10c778dac42d5b7"
+        },
+        "boundaryReason": "精确起始短语“华盛顿仍然要判断”对应实际cue起头“华盛顿仍然要判断中间人的”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "castro-warning-beat-1",
+      "nodeId": "castro-warning",
+      "startFrame": 12001,
+      "endFrame": 12495,
+      "durationFrames": 494,
+      "purpose": "交代古巴对迫近攻击的预判",
+      "narration": [
+        "同样在26日，卡斯特罗给赫鲁晓夫写信。他判断，美国可能在未来24到72小时内采取行动，可能是空袭，也可能是入侵。古巴的恐惧，和白宫讨论怎样避免失控的心情，并不相同。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "卡斯特罗的判断",
+            "detail": "24—72小时内可能行动",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "可能的攻击",
+            "detail": "区分空袭与入侵",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "预测迫近的战争",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "castro26",
+              "alekseev"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-castro-portrait",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "卡斯特罗，1959年4月15日；人物辨认，非危机现场。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.409999999999999,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 16.466666666666665,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-castro-warning",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-25f5a3ddbd056c96369f966deec3bf2f670543cf76eb9de6b54a0ea05304b397/result.json",
+          "sha256": "6420e3ad5367ec419aeba284a260ce2a694e6000fc78e37c26f44b5c866c1656"
+        },
+        "boundaryReason": "首图版固定指向该段实际raw第一个cue；显示稿中的阿拉伯数字和标点按确认稿恢复。"
+      }
+    },
+    {
+      "id": "castro-warning-beat-2",
+      "nodeId": "castro-warning",
+      "startFrame": 12495,
+      "endFrame": 12981,
+      "durationFrames": 486,
+      "purpose": "明确核升级意见的条件",
+      "narration": [
+        "卡斯特罗甚至在美国入侵古巴这一条件下，提出极端的核升级意见，担心苏联如果被动等待，会失去反击机会。这个条件不能省略：信件不是一份美国已经批准入侵的情报，也不能简单说成卡斯特罗要求苏联立刻核打击美国。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "条件：美国入侵",
+            "detail": "不是无条件要求立即攻击",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "极端核升级意见",
+            "detail": "担心苏联失去反击机会",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "条件必须保留",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "castro26"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.29,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 16.2,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-castro-warning",
+        "startCueId": "run-0-c10",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-25f5a3ddbd056c96369f966deec3bf2f670543cf76eb9de6b54a0ea05304b397/result.json",
+          "sha256": "6420e3ad5367ec419aeba284a260ce2a694e6000fc78e37c26f44b5c866c1656"
+        },
+        "boundaryReason": "精确起始短语“卡斯特罗甚至在美国入侵古巴这一条件下”对应实际cue起头“卡斯特罗甚至在美国入侵古巴”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。短语跨相邻cue，选覆盖其开头的这个cue；无需虚构短语内部时间。"
+      }
+    },
+    {
+      "id": "castro-warning-beat-3",
+      "nodeId": "castro-warning",
+      "startFrame": 12981,
+      "endFrame": 13487,
+      "durationFrames": 506,
+      "purpose": "把古巴恐惧接到不同步的同盟决策",
+      "narration": [
+        "但它确实说明，对战争迫近的恐惧，可能把人推向会造成更大灾难的主张。苏联驻古大使27日的报告，也记录了卡斯特罗的判断。古巴有自己的意见，却没有与华盛顿、莫斯科共同掌握一个同步透明的决策过程。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "古巴的恐惧与主张",
+            "detail": "不能当作美军作战命令",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "美苏与现场行动",
+            "detail": "并未同步透明决策",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "恐惧可能推动升级",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "castro26",
+              "alekseev"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.590000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 16.866666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-castro-warning",
+        "startCueId": "run-0-c18",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-25f5a3ddbd056c96369f966deec3bf2f670543cf76eb9de6b54a0ea05304b397/result.json",
+          "sha256": "6420e3ad5367ec419aeba284a260ce2a694e6000fc78e37c26f44b5c866c1656"
+        },
+        "boundaryReason": "精确起始短语“但它确实说明”对应实际cue起头“但它确实说明对战争迫近的”及紧邻后续cue；数字/标点差异按语义核对。以该观察cue起点切换，不在cue内部猜时间。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "turkey-27-beat-1",
+      "nodeId": "turkey-27",
+      "startFrame": 13487,
+      "endFrame": 14123,
+      "durationFrames": 636,
+      "purpose": "清楚区分26日与27日的来信条件",
+      "narration": [
+        "27日，赫鲁晓夫又提出了一套更明确的条件：苏联撤除古巴的有关武器，美国也撤除土耳其的同类武器，并作出安全承诺。这与26日主要围绕不入侵古巴的来信，有了重要区别。赫鲁晓夫把美国对古巴的担忧，和苏联对土耳其的担忧放在一起，要求对称处理。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "26日方向",
+            "detail": "不入侵与撤除武器",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "27日新条件",
+            "detail": "明确提出土耳其交换",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "条件增加对称交换",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "letter26",
+              "frus91"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.54,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 21.2,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-turkey-27",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-3574906f0bc46ed190096f46326e88d4edd7856d7051075c3d3e6327bc1d3d12/result.json",
+          "sha256": "27f3ed87cb646236292bd30b42291bb6a05f90919a1082e74ecebf84c157791e"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“27日，赫鲁晓夫又提出”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "turkey-27-beat-2",
+      "nodeId": "turkey-27",
+      "startFrame": 14123,
+      "endFrame": 14497,
+      "durationFrames": 374,
+      "purpose": "把武器处置连接到盟友信任",
+      "narration": [
+        "但土耳其是美国的北约盟友，朱庇特导弹也不仅是一批军事装备。即使已有淘汰背景，在公开压力下宣布拿盟友境内的武器作交换，仍会影响盟友对美国承诺的信任。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "朱庇特导弹",
+            "detail": "已有淘汰背景",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "土耳其与北约",
+            "detail": "关系到安全和承诺信任",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "军事价值≠政治意义",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "state",
+              "rfk96"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 5.61,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 12.466666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-turkey-27",
+        "startCueId": "run-0-c15",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-3574906f0bc46ed190096f46326e88d4edd7856d7051075c3d3e6327bc1d3d12/result.json",
+          "sha256": "27f3ed87cb646236292bd30b42291bb6a05f90919a1082e74ecebf84c157791e"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“但土耳其是美国的北约盟友”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "turkey-27-beat-3",
+      "nodeId": "turkey-27",
+      "startFrame": 14497,
+      "endFrame": 14911,
+      "durationFrames": 414,
+      "purpose": "交代两国领土核查需要同意",
+      "narration": [
+        "苏方提议还说，国际人员进入古巴和土耳其检查，需要两国政府同意。于是，谈判不仅是两位领导人肯不肯让步，还涉及他们能怎样向盟友解释，以及别国是否接受执行办法。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "美苏谈判原则",
+            "detail": "提出撤除及国际检查",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "古巴与土耳其",
+            "detail": "进入领土须有关政府同意",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "原则还需执行条件",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "frus91"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.210000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 13.8,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-turkey-27",
+        "startCueId": "run-0-c23",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-3574906f0bc46ed190096f46326e88d4edd7856d7051075c3d3e6327bc1d3d12/result.json",
+          "sha256": "27f3ed87cb646236292bd30b42291bb6a05f90919a1082e74ecebf84c157791e"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“苏方提议还说”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "u2-27-beat-1",
+      "nodeId": "u2-27",
+      "startFrame": 14911,
+      "endFrame": 15366,
+      "durationFrames": 455,
+      "purpose": "让死亡事实和日期独立显现",
+      "narration": [
+        "就在这些条件来回传递的时候，27日，一架美国U-2侦察机在古巴上空被地空导弹击落，飞行员鲁道夫·安德森少校死亡。此前的威胁和部署争议，已经变成了美国人员的实际死亡。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "10月27日",
+            "detail": "U-2在古巴上空被击落",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "安德森少校",
+            "detail": "飞行员死亡",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "军事接触造成伤亡",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk27"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.825,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 15.166666666666666,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-u2-27",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-1615a0fd56fb983075eb19e83c82b487547b7f9142cdb39cc42f8b717359d6dc/result.json",
+          "sha256": "e35244fbaa676dc85090a9d734a651d78d9660dc63378567829a22053582d27b"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“就在这些条件来回传递的时候”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "u2-27-beat-2",
+      "nodeId": "u2-27",
+      "startFrame": 15366,
+      "endFrame": 16018,
+      "durationFrames": 652,
+      "purpose": "比较报复压力与实际总统选择",
+      "narration": [
+        "立即打击导弹阵地的压力随之上升，但肯尼迪没有马上批准报复，而是在执行委员会的讨论中抵制立即动武。如果每一次攻击都自动触发下一轮攻击，谈判可能还没得出结果，就已经失去意义。继续交涉，则要承受顾问和国内的压力，还要承担对方可能进一步行动的风险。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "立即报复的压力",
+            "detail": "攻击地空导弹阵地",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "肯尼迪的选择",
+            "detail": "没有马上批准报复",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "暂时抵制立即动武",
+            "semantics": "conflict",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk27"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-kennedy-portrait",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "肯尼迪，1963年7月11日；人物辨认，非危机现场。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.780000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 21.733333333333334,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-u2-27",
+        "startCueId": "run-0-c10",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-1615a0fd56fb983075eb19e83c82b487547b7f9142cdb39cc42f8b717359d6dc/result.json",
+          "sha256": "e35244fbaa676dc85090a9d734a651d78d9660dc63378567829a22053582d27b"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“立即打击导弹阵地的压力”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "u2-27-beat-3",
+      "nodeId": "u2-27",
+      "startFrame": 16018,
+      "endFrame": 16344,
+      "durationFrames": 326,
+      "purpose": "把克制与未受控制的现场分开",
+      "narration": [
+        "肯尼迪暂时压住了一次升级，并不意味着他已经掌控整个现场。海空部队仍在行动，下一次接触会被怎样理解，没有人能够保证。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "一次升级暂被压住",
+            "detail": "外交空间仍然保留",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "下一次接触仍可能发生",
+            "detail": "海空行动没有停止",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "克制不是全面掌控",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk27"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 4.890000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 10.866666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-u2-27",
+        "startCueId": "run-0-c22",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-1615a0fd56fb983075eb19e83c82b487547b7f9142cdb39cc42f8b717359d6dc/result.json",
+          "sha256": "e35244fbaa676dc85090a9d734a651d78d9660dc63378567829a22053582d27b"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“肯尼迪暂时压住了一次升级”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "b59-risk-beat-1",
+      "nodeId": "b59-risk",
+      "startFrame": 16344,
+      "endFrame": 16890,
+      "durationFrames": 546,
+      "purpose": "用同期任务事实认识潜艇风险",
+      "narration": [
+        "海面之下，也有白宫和克里姆林宫难以及时看清的危险。后来公开的苏方任务报告记载，赴古巴的四艘潜艇，每艘都带有一枚核鱼雷。B-59潜艇在搜索压力下最终浮出，报告还记下了电池耗尽等情况。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "苏方同期任务报告",
+            "detail": "四艘潜艇各有核鱼雷",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "B-59的处境",
+            "detail": "受搜索压力，最终浮出",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "载核武与搜索相遇",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "b59"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-b59",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "B-59，来源标为1962年10月28—29日；非艇内争议现场。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 8.19,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 18.2,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-b59-risk",
+        "startCueId": "run-0-c1-p1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-a5c6ea80f1284c917815529a89be4beb009f2a6894ac293d19fcc5d92893b47c/result.json",
+          "sha256": "cc267e381e65c1221309525c06a1f3980ced9b02e70aaa6fd915c65a66ff64c6"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“海面之下”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "b59-risk-beat-2",
+      "nodeId": "b59-risk",
+      "startFrame": 16890,
+      "endFrame": 17412,
+      "durationFrames": 522,
+      "purpose": "并列美方意图和艇内可能理解",
+      "narration": [
+        "美国的识别规则设计了爆炸声信号，目的是迫使潜艇浮出，并非发动致命攻击。但美方想传达什么，艇内的人怎样理解，不是一回事。通信受限、疲惫和对战争是否已经开始的疑问，都可能让信号变成威胁。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "美方设计的信号",
+            "detail": "迫使浮出，非致命攻击",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "艇内受限的信息",
+            "detail": "疲惫、通信受限、疑问",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "意图与理解有距离",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "signals377",
+              "b59"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.829999999999999,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 17.4,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-b59-risk",
+        "startCueId": "run-0-c9",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-a5c6ea80f1284c917815529a89be4beb009f2a6894ac293d19fcc5d92893b47c/result.json",
+          "sha256": "cc267e381e65c1221309525c06a1f3980ced9b02e70aaa6fd915c65a66ff64c6"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“美国的识别规则”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "b59-risk-beat-3",
+      "nodeId": "b59-risk",
+      "startFrame": 17412,
+      "endFrame": 17868,
+      "durationFrames": 456,
+      "purpose": "证据分层，不再现未证实的发射投票",
+      "narration": [
+        "关于舰长曾下令准备核鱼雷的具体说法，主要来自多年后的参与者回忆，同期任务报告没有记下这场发射争议。因此，不能把“三人投票”“只差几秒”或“一个人救了世界”，讲成已经由当时日志证实的情节。"
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "同期任务报告",
+            "detail": "没有记载发射争议",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "多年后参与者回忆",
+            "detail": "涉及准备核鱼雷说法",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "证据类型分开阅读",
+            "semantics": "disputed",
+            "status": "disputed",
+            "sourceIds": [
+              "b59"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "同期报告与多年后回忆分层；争议线不等于已证实的发射情节。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.84,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 15.2,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-b59-risk",
+        "startCueId": "run-0-c22",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-a5c6ea80f1284c917815529a89be4beb009f2a6894ac293d19fcc5d92893b47c/result.json",
+          "sha256": "cc267e381e65c1221309525c06a1f3980ced9b02e70aaa6fd915c65a66ff64c6"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“关于舰长曾下令准备核鱼雷的具体说法”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "b59-risk-beat-4",
+      "nodeId": "b59-risk",
+      "startFrame": 17868,
+      "endFrame": 18067,
+      "durationFrames": 199,
+      "purpose": "以确定的风险事实收束而非英雄结论",
+      "narration": [
+        "即使不采用这些戏剧化细节，核武器与强制浮出行动相遇，本身已经足够危险。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "载核武潜艇",
+            "detail": "与强制浮出行动相遇",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "危险已经存在",
+            "detail": "无需最后几秒的戏剧断言",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "不确定细节不抹去风险",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "b59",
+              "signals377"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 2.9850000000000003,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 6.633333333333334,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-b59-risk",
+        "startCueId": "run-0-c30",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-a5c6ea80f1284c917815529a89be4beb009f2a6894ac293d19fcc5d92893b47c/result.json",
+          "sha256": "cc267e381e65c1221309525c06a1f3980ced9b02e70aaa6fd915c65a66ff64c6"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“即使不采用这些戏剧化细节”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "two-track-agreement-beat-1",
+      "nodeId": "two-track-agreement",
+      "startFrame": 18067,
+      "endFrame": 18648,
+      "durationFrames": 581,
+      "purpose": "呈现公开回应采用26日框架",
+      "narration": [
+        "27日晚，肯尼迪公开回应赫鲁晓夫26日的来信，抓住了较容易公开接受的那条退路：苏方撤除有关武器，在联合国安排下核查，美方相应解除隔离，并给予不入侵保证。公开回复没有承诺用土耳其导弹直接交换。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "苏方撤除武器",
+            "detail": "联合国安排下核查",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "美方相应承诺",
+            "detail": "解除隔离与不入侵保证",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "公开解决框架",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "frus95"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 8.715,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 19.366666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-two-track-agreement",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-43f2e348cfdbd7de3e4ed7b425d6ef6446a3d21090362264ae56973f74df703f/result.json",
+          "sha256": "f7f770a531140e49d3f04e4274f3206493b9bbd96ebcbf4237491089a0425f5f"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“27日晚，肯尼迪公开回应”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "two-track-agreement-beat-2",
+      "nodeId": "two-track-agreement",
+      "startFrame": 18648,
+      "endFrame": 18968,
+      "durationFrames": 320,
+      "purpose": "单独展示秘密土耳其沟通，不混为公开文本",
+      "narration": [
+        "同一晚，司法部长罗伯特·肯尼迪秘密会见苏联驻美大使多勃雷宁，谈到了美国将撤除土耳其朱庇特导弹，但不公开宣布这项安排。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "罗伯特·肯尼迪",
+            "detail": "传递撤除朱庇特安排",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "多勃雷宁",
+            "detail": "保密会谈中的苏方代表",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "秘密渠道传递安排",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "rfk96",
+              "khrush70"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 4.8,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 10.666666666666666,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-two-track-agreement",
+        "startCueId": "run-0-c11",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-43f2e348cfdbd7de3e4ed7b425d6ef6446a3d21090362264ae56973f74df703f/result.json",
+          "sha256": "f7f770a531140e49d3f04e4274f3206493b9bbd96ebcbf4237491089a0425f5f"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“同一晚，司法部长罗伯特·肯尼迪”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "two-track-agreement-beat-3",
+      "nodeId": "two-track-agreement",
+      "startFrame": 18968,
+      "endFrame": 19471,
+      "durationFrames": 503,
+      "purpose": "让文件日期及删改痕迹与会谈日期分开",
+      "narration": [
+        "罗伯特·肯尼迪三天后写的备忘录，与赫鲁晓夫28日的私信，可以互相对照；前者还留下四五个月期限的文字被删去的痕迹。所以，既不能说美国完全没有让步，也不能说双方当众签下了同时交换导弹的完整协议。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "10月30日备忘录",
+            "detail": "回述27日会谈；期限有删文",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "10月28日苏方私信",
+            "detail": "与美方记录互相对照",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "记录可对照，非录音",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "rfk96",
+              "khrush70"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.545,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 16.766666666666666,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-two-track-agreement",
+        "startCueId": "run-0-c16",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-43f2e348cfdbd7de3e4ed7b425d6ef6446a3d21090362264ae56973f74df703f/result.json",
+          "sha256": "f7f770a531140e49d3f04e4274f3206493b9bbd96ebcbf4237491089a0425f5f"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“罗伯特·肯尼迪三天后写的备忘录”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "two-track-agreement-beat-4",
+      "nodeId": "two-track-agreement",
+      "startFrame": 19471,
+      "endFrame": 19759,
+      "durationFrames": 288,
+      "purpose": "并置公开和保密两轨，收束不等于同时交换",
+      "narration": [
+        "更准确的理解，是公开解决框架之外，还有处理土耳其导弹的保密谅解。两条安排共同为退出对抗创造了空间。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "公开框架",
+            "detail": "古巴撤弹与不入侵",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "保密谅解",
+            "detail": "土耳其导弹另行处理",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "共同创造退出空间",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "frus95",
+              "rfk96",
+              "khrush70"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 4.32,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 9.6,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-two-track-agreement",
+        "startCueId": "run-0-c26",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-43f2e348cfdbd7de3e4ed7b425d6ef6446a3d21090362264ae56973f74df703f/result.json",
+          "sha256": "f7f770a531140e49d3f04e4274f3206493b9bbd96ebcbf4237491089a0425f5f"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“更准确的理解”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "withdrawal-28-beat-1",
+      "nodeId": "withdrawal-28",
+      "startFrame": 19759,
+      "endFrame": 20192,
+      "durationFrames": 433,
+      "purpose": "宣布撤除给对抗带来政治退路",
+      "narration": [
+        "28日，莫斯科广播公布赫鲁晓夫接受解决方案、拆除并撤走古巴导弹的决定。美国谨慎欢迎这一消息。“十三天”的危险高峰终于过去，双方不再只剩下继续施压或发动攻击的选择。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "10月28日广播",
+            "detail": "苏方接受解决方案",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "美国谨慎欢迎",
+            "detail": "最急迫对抗出现退路",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "公开宣布退出方向",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk28",
+              "khrush70"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.495,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 14.433333333333334,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-withdrawal-28",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-bfdeb2d84c4f10a226d5ddb4aa37305e5cea8818ea109e529dfc4bbd07d6e3d7/result.json",
+          "sha256": "abc2ca6ae6bdfa9f5c44546aea1f8bf46b5913eed7db69907f007ab21366b807"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“28日，莫斯科广播公布”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "withdrawal-28-beat-2",
+      "nodeId": "withdrawal-28",
+      "startFrame": 20192,
+      "endFrame": 20534,
+      "durationFrames": 342,
+      "purpose": "分开声明和执行，不让28日包办结局",
+      "narration": [
+        "但广播里宣布撤弹，和所有设备已经运走，是两件事。拆卸、运输、核查，以及怎样解释各项承诺，仍然需要继续交涉。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "宣布拆除撤走",
+            "detail": "政治承诺改变局势",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "尚待执行",
+            "detail": "拆卸、运输、核查",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "宣布不是完成",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "jfk28"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-excomm-29oct",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "1962年10月29日会议；晚于28日撤弹声明。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 5.13,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 11.4,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-withdrawal-28",
+        "startCueId": "run-0-c11-p1",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-bfdeb2d84c4f10a226d5ddb4aa37305e5cea8818ea109e529dfc4bbd07d6e3d7/result.json",
+          "sha256": "abc2ca6ae6bdfa9f5c44546aea1f8bf46b5913eed7db69907f007ab21366b807"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“但广播里宣布撤弹”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "withdrawal-28-beat-3",
+      "nodeId": "withdrawal-28",
+      "startFrame": 20534,
+      "endFrame": 21282,
+      "durationFrames": 748,
+      "purpose": "保留苏古不满和控制权的不对称",
+      "narration": [
+        "古巴也没有因为美苏达成安排就自动满意。苏联驻古大使11月2日的报告，记录了卡斯特罗对撤弹处置的不满。苏联帮助古巴增强防御，却又在对美交涉中决定撤除，盟友之间的风险和控制权问题，就这样显露出来。最急迫的对抗获得了退路，围绕安全、主权和信任的矛盾，却不会随着一则声明一同消失。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "卡斯特罗的不满",
+            "detail": "11月2日苏方大使报告",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "苏联对美安排",
+            "detail": "没有使盟友自动满意",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "同盟分歧仍在",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "alekseev"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-castro-portrait",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "卡斯特罗，1959年4月15日；人物辨认，非危机现场。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 11.22,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 24.933333333333334,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-withdrawal-28",
+        "startCueId": "run-0-c15",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-bfdeb2d84c4f10a226d5ddb4aa37305e5cea8818ea109e529dfc4bbd07d6e3d7/result.json",
+          "sha256": "abc2ca6ae6bdfa9f5c44546aea1f8bf46b5913eed7db69907f007ab21366b807"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“古巴也没有因为”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "verification-november-beat-1",
+      "nodeId": "verification-november",
+      "startFrame": 21282,
+      "endFrame": 21655,
+      "durationFrames": 373,
+      "purpose": "将拆卸运输呈现为具体行动链",
+      "narration": [
+        "接下来，承诺必须变成看得见的撤除。导弹从发射场拆下，还要装船运离古巴；美国则继续通过海上安排与侦察，确认撤除进展。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "拆下导弹",
+            "detail": "从发射场撤除",
+            "position": [
+              0.19,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "装船运离",
+            "detail": "武器离开古巴",
+            "position": [
+              0.5,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          },
+          {
+            "id": "item-3",
+            "label": "海上与侦察核查",
+            "detail": "确认撤除进展",
+            "position": [
+              0.81,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.07,
+              0.29000000000000004
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "实际运输",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "execution251"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.345,
+              0.27
+            ]
+          },
+          {
+            "id": "relation-2",
+            "from": "item-2",
+            "to": "item-3",
+            "label": "确认仍需核查",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "execution251"
+            ],
+            "enter": [
+              0.2,
+              0.44
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.655,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 5.595000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 12.433333333333334,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-verification-november",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-92f0f96019d3b12442bf44ed46366405d2e77ec0588381cccade5b28cf137fe7/result.json",
+          "sha256": "b0cf391c153a5a8349881b42aba861b0e86c354e33c5606fe716d4aae5fba6e1"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“接下来，承诺必须变成”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "verification-november-beat-2",
+      "nodeId": "verification-november",
+      "startFrame": 21655,
+      "endFrame": 21997,
+      "durationFrames": 342,
+      "purpose": "把撤运照片的证据范围说清",
+      "narration": [
+        "11月7日，“金属工人阿诺索夫”号离开古巴，留下了载有帆布覆盖导弹运输车辆的照片。但一艘船驶离，并不能证明全部有关武器都已撤尽。"
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "阿诺索夫号离古",
+            "detail": "11月7日撤运照片",
+            "position": [
+              0.53,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "图注所述货物",
+            "detail": "帆布覆盖的导弹运输车辆",
+            "position": [
+              0.83,
+              0.48
+            ],
+            "width": 0.23,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "不能代表全部撤尽",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "execution251"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.6799999999999999,
+              0.27
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "cuba-anosov",
+            "x": 0.045,
+            "y": 0.17,
+            "width": 0.3,
+            "height": 0.36,
+            "caption": "阿诺索夫号，1962年11月7日；货物按原材料图注辨认。",
+            "focusZoom": 1.025
+          }
+        ],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 5.13,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 11.4,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-verification-november",
+        "startCueId": "run-0-c7",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-92f0f96019d3b12442bf44ed46366405d2e77ec0588381cccade5b28cf137fe7/result.json",
+          "sha256": "b0cf391c153a5a8349881b42aba861b0e86c354e33c5606fe716d4aae5fba6e1"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“11月7日”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "verification-november-beat-3",
+      "nodeId": "verification-november",
+      "startFrame": 21997,
+      "endFrame": 22354,
+      "durationFrames": 357,
+      "purpose": "展示后续武器与核查交涉，直到解除隔离",
+      "narration": [
+        "IL-28轰炸机又成为后续交涉的议题，美国直到11月20日才解除海上隔离。原先设想的古巴境内国际检查，也没有按计划实现。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "IL-28与核查",
+            "detail": "轰炸机继续交涉",
+            "position": [
+              0.19,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "11月20日",
+            "detail": "美国解除海上隔离",
+            "position": [
+              0.5,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          },
+          {
+            "id": "item-3",
+            "label": "境内国际检查",
+            "detail": "未按原先计划实现",
+            "position": [
+              0.81,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.07,
+              0.29000000000000004
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "继续谈后续安排",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "execution251",
+              "state"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.345,
+              0.27
+            ]
+          },
+          {
+            "id": "relation-2",
+            "from": "item-2",
+            "to": "item-3",
+            "label": "核查仍有局限",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "execution251",
+              "state"
+            ],
+            "enter": [
+              0.2,
+              0.44
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.655,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 5.355,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 11.9,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-verification-november",
+        "startCueId": "run-0-c13",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-92f0f96019d3b12442bf44ed46366405d2e77ec0588381cccade5b28cf137fe7/result.json",
+          "sha256": "b0cf391c153a5a8349881b42aba861b0e86c354e33c5606fe716d4aae5fba6e1"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“IL-28轰炸机又成为”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "verification-november-beat-4",
+      "nodeId": "verification-november",
+      "startFrame": 22354,
+      "endFrame": 22959,
+      "durationFrames": 605,
+      "purpose": "明确秘密谅解的执行晚于危机高峰",
+      "narration": [
+        "另一条执行线更晚：土耳其的朱庇特导弹在1963年4月撤除。这样看，危机的结局有一个过程：10月28日先形成政治退路，随后落实武器和海上安排，再兑现保密谅解。真正让局势改变的，不只是承诺本身，还有这些并不容易完成的步骤。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "10月28日",
+            "detail": "政治退路",
+            "position": [
+              0.19,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "11月后续落实",
+            "detail": "武器、海上行动与核查",
+            "position": [
+              0.5,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          },
+          {
+            "id": "item-3",
+            "label": "1963年4月",
+            "detail": "土耳其朱庇特撤除",
+            "position": [
+              0.81,
+              0.48
+            ],
+            "width": 0.25,
+            "height": 0.2,
+            "enter": [
+              0.07,
+              0.29000000000000004
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "宣布之后执行",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "state",
+              "execution251"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.345,
+              0.27
+            ]
+          },
+          {
+            "id": "relation-2",
+            "from": "item-2",
+            "to": "item-3",
+            "label": "保密安排另行兑现",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "state",
+              "execution251"
+            ],
+            "enter": [
+              0.2,
+              0.44
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.655,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.075000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.166666666666668,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-verification-november",
+        "startCueId": "run-0-c18",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-92f0f96019d3b12442bf44ed46366405d2e77ec0588381cccade5b28cf137fe7/result.json",
+          "sha256": "b0cf391c153a5a8349881b42aba861b0e86c354e33c5606fe716d4aae5fba6e1"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“另一条执行线更晚”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "hotline-1963-beat-1",
+      "nodeId": "hotline-1963",
+      "startFrame": 22959,
+      "endFrame": 23577,
+      "durationFrames": 618,
+      "purpose": "把危机经验接到通信机制改进",
+      "narration": [
+        "危机也让美苏看到，消息传得慢、渠道彼此重叠、意图难以确认，会增加怎样的危险。1963年6月20日，两国在日内瓦签署并使直接通信链路备忘录生效，为紧急情况建立持续运行、及时把消息送达政府首脑的机制。这就是后来常说的华盛顿与莫斯科热线。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "沟通的危险",
+            "detail": "慢、重叠、意图难确认",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "1963年6月20日",
+            "detail": "直接通信链路备忘录生效",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "回应沟通问题",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "state",
+              "hotline"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.270000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.6,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-hotline-1963",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-3c62fa95d07370afb77fdd3ece9623be25a2d7803d581d300456a86d21dcca17/result.json",
+          "sha256": "fba3e0b86a2daa6cca2bc876ec86935a31ffa456702d9e8c3f7d2868def624f2"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“危机也让美苏看到”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "hotline-1963-beat-2",
+      "nodeId": "hotline-1963",
+      "startFrame": 23577,
+      "endFrame": 23877,
+      "durationFrames": 300,
+      "purpose": "纠正常见热线电话想象",
+      "narration": [
+        "它最初是传送文字消息的电传链路，并不是两位领导人可以直接互拨的红色电话。遇到需要迅速澄清的情况，直接渠道能够减少延误和误解。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "最初的热线",
+            "detail": "电传与文字消息",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "紧急直接渠道",
+            "detail": "及时把消息送达首脑",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "减少传递延误",
+            "semantics": "sequence",
+            "status": "reviewed",
+            "sourceIds": [
+              "hotline"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 4.5,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 10,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-hotline-1963",
+        "startCueId": "run-0-c12",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-3c62fa95d07370afb77fdd3ece9623be25a2d7803d581d300456a86d21dcca17/result.json",
+          "sha256": "fba3e0b86a2daa6cca2bc876ec86935a31ffa456702d9e8c3f7d2868def624f2"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“它最初是传送文字消息的电传链路”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "hotline-1963-beat-3",
+      "nodeId": "hotline-1963",
+      "startFrame": 23877,
+      "endFrame": 24323,
+      "durationFrames": 446,
+      "purpose": "收束机制用途并保留分歧",
+      "narration": [
+        "但通信更快，并不能让政治分歧自动消失。双方只是试着把一项已经暴露的危险，变成可以具体改进的机制。与此同时，另一个范围有限、却同样重要的合作，也取得了进展。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "能够改进",
+            "detail": "传递速度与澄清",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "不能自动解决",
+            "detail": "两国政治分歧",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "工具有具体边界",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "hotline",
+              "state"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.69,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 14.866666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-hotline-1963",
+        "startCueId": "run-0-c19",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-3c62fa95d07370afb77fdd3ece9623be25a2d7803d581d300456a86d21dcca17/result.json",
+          "sha256": "fba3e0b86a2daa6cca2bc876ec86935a31ffa456702d9e8c3f7d2868def624f2"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“但通信更快”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "test-ban-1963-beat-1",
+      "nodeId": "test-ban-1963",
+      "startFrame": 24323,
+      "endFrame": 24724,
+      "durationFrames": 401,
+      "purpose": "显示有限禁试的范围",
+      "narration": [
+        "1963年，美、苏、英签署有限禁止核试验条约，禁止在大气层、外空和水下进行核试验，却没有禁止地下核试验。这是有限的军控成果，并不是全面裁军。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "禁止试验的环境",
+            "detail": "大气层、外空、水下",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "未被禁止",
+            "detail": "地下核试验",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "有限军控范围",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "ltbt"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.015000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 13.366666666666667,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-test-ban-1963",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-8237d1e204f657d22b3629c5005fb5399f276562c91291e63b0b64eacf1859cc/result.json",
+          "sha256": "ea81844334ed533261e8974dc9f972903b07ec1c36ffd6bd083d8935592c3a99"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“1963年，美、苏、英”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "test-ban-1963-beat-2",
+      "nodeId": "test-ban-1963",
+      "startFrame": 24724,
+      "endFrame": 25429,
+      "durationFrames": 705,
+      "purpose": "将此前谈判与危机后动力分开",
+      "narration": [
+        "谈判也并非危机之后才突然开始：早在1958年，各方就已展开禁试谈判，长期争执包括怎样核查地下爆炸，以及是否允许现场检查。古巴危机增强了避免核灾难的动力，而缩小协议范围，让更容易达成的部分先取得了进展。合作需要动力，也需要具体取舍。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "1958年起谈判",
+            "detail": "地下爆炸核查与现场检查",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "危机后的推进",
+            "detail": "增强动力，缩小协议范围",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "长期谈判与具体取舍",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "ltbt"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 10.575000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 23.5,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-test-ban-1963",
+        "startCueId": "run-0-c9",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-8237d1e204f657d22b3629c5005fb5399f276562c91291e63b0b64eacf1859cc/result.json",
+          "sha256": "ea81844334ed533261e8974dc9f972903b07ec1c36ffd6bd083d8935592c3a99"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“谈判也并非危机之后才突然开始”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "test-ban-1963-beat-3",
+      "nodeId": "test-ban-1963",
+      "startFrame": 25429,
+      "endFrame": 25817,
+      "durationFrames": 388,
+      "purpose": "将合作成果与继续竞争并置",
+      "narration": [
+        "美苏更清楚核对抗失控的代价，愿意在部分问题上合作，同时又保留核武器、同盟体系和竞争。避免了一场战争，并不等于从此建立了一个不会再发生危险的世界。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "部分合作有进展",
+            "detail": "有限核试验限制",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "核竞争仍然存在",
+            "detail": "核武器、同盟和竞争",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "有限合作未终结对抗",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "ltbt"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 5.82,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 12.933333333333334,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-test-ban-1963",
+        "startCueId": "run-0-c20",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-8237d1e204f657d22b3629c5005fb5399f276562c91291e63b0b64eacf1859cc/result.json",
+          "sha256": "ea81844334ed533261e8974dc9f972903b07ec1c36ffd6bd083d8935592c3a99"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“美苏更清楚核对抗失控的代价”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    },
+    {
+      "id": "what-explains-outcome-beat-1",
+      "nodeId": "what-explains-outcome",
+      "startFrame": 25817,
+      "endFrame": 26271,
+      "durationFrames": 454,
+      "purpose": "回顾多项共同作用的安排",
+      "narration": [
+        "回头看，究竟是什么让双方退了回来？军事压力让古巴导弹不能继续搁置，暂不攻击又给谈判留下了时间。不入侵保证回应了古巴的安全问题，秘密处理土耳其导弹，让苏方能够接受退路。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "压力与暂不攻击",
+            "detail": "促成处理，保留谈判",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "不入侵与保密谅解",
+            "detail": "为双方创造退路",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "相互作用而非单因",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "frus95",
+              "khrush70"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.81,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 15.133333333333333,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-what-explains-outcome",
+        "startCueId": "run-0-c1",
+        "startOrigin": "native_segment_start",
+        "rawResult": {
+          "path": "audio/subtitles-807add9df51d401125624c51752274872e7ba74690f52557a5fc052662bcaff6/result.json",
+          "sha256": "3bb5da39b1eac62a3688a3573ed837e41db2b22475c8853576161bfd01653f95"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“回头看，究竟是什么让双方退了回来”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "what-explains-outcome-beat-2",
+      "nodeId": "what-explains-outcome",
+      "startFrame": 26271,
+      "endFrame": 26876,
+      "durationFrames": 605,
+      "purpose": "回顾兑现的行动以及无法量化的贡献",
+      "narration": [
+        "此后，拆除、运输与核查，又把政治承诺变成了实际变化。这些因素相互影响，很难把结局归给某一个人的强硬，或某一封信的巧妙。安德森的死亡和潜艇的遭遇，还提醒我们：领导人正在谈判，现场仍可能把他们推向更危险的方向。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "承诺变成行动",
+            "detail": "拆除、运输、核查",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "现场风险仍存在",
+            "detail": "潜艇遭遇与升级危险",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "结局不能证明必胜",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "execution251",
+              "b59",
+              "jfk27"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.075000000000001,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.166666666666668,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-what-explains-outcome",
+        "startCueId": "run-0-c8",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-807add9df51d401125624c51752274872e7ba74690f52557a5fc052662bcaff6/result.json",
+          "sha256": "3bb5da39b1eac62a3688a3573ed837e41db2b22475c8853576161bfd01653f95"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“此后，拆除、运输与核查”；仅选择原生观察起点，首图版从声音段首帧开始。"
+      }
+    },
+    {
+      "id": "what-explains-outcome-beat-3",
+      "nodeId": "what-explains-outcome",
+      "startFrame": 26876,
+      "endFrame": 27493,
+      "durationFrames": 617,
+      "purpose": "以可带走的问题结束而非英雄公式",
+      "narration": [
+        "理解这场危机，可以始终追问：各方害怕失去什么，他们当时知道多少，对手会怎样理解自己的行动，又有没有一条能说明、兑现并核查的退路？这段历史既让我们看到，政治选择能够阻止升级，也让我们看到，任何人对危险的控制都远非无所不能。"
+      ],
+      "visual": {
+        "kind": "relations",
+        "items": [
+          {
+            "id": "item-1",
+            "label": "各方害怕失去什么",
+            "detail": "当时掌握多少信息",
+            "position": [
+              0.25,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0,
+              0.22
+            ]
+          },
+          {
+            "id": "item-2",
+            "label": "行动会被怎样理解",
+            "detail": "退路能否说明和兑现",
+            "position": [
+              0.75,
+              0.48
+            ],
+            "width": 0.28,
+            "height": 0.2,
+            "enter": [
+              0.035,
+              0.255
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "relation-1",
+            "from": "item-1",
+            "to": "item-2",
+            "label": "选择有作用，控制有限",
+            "semantics": "interpreted",
+            "status": "reviewed",
+            "sourceIds": [
+              "frus95",
+              "khrush70",
+              "execution251",
+              "b59"
+            ],
+            "enter": [
+              0.16,
+              0.4
+            ],
+            "laneY": 0.29,
+            "labelPosition": [
+              0.5,
+              0.27
+            ]
+          }
+        ],
+        "images": [],
+        "legend": "实线为行动或顺序；虚线为解释性关系。照片仅作图像语境，日期见图注。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 9.255,
+          "x": 940,
+          "y": 525,
+          "z": 1.02
+        },
+        {
+          "t": 20.566666666666666,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "timingEvidence": {
+        "segmentId": "narration-what-explains-outcome",
+        "startCueId": "run-0-c21",
+        "startOrigin": "observed_cue_start_ceil_to_frame",
+        "rawResult": {
+          "path": "audio/subtitles-807add9df51d401125624c51752274872e7ba74690f52557a5fc052662bcaff6/result.json",
+          "sha256": "3bb5da39b1eac62a3688a3573ed837e41db2b22475c8853576161bfd01653f95"
+        },
+        "boundaryReason": "实际Path B文本在该cue开始对应图版旁白开头“理解这场危机，可以始终追问”；仅选择原生观察起点，首图版从声音段首帧开始。",
+        "gapFrames": 18
+      }
+    }
+  ]
+}

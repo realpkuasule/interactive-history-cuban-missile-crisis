@@ -1,0 +1,2497 @@
+{
+  "output": {
+    "fps": 30
+  },
+  "audioTracks": [
+    {
+      "id": "narration-cuba-before-crisis",
+      "assetId": "narration-cuba-before-crisis",
+      "startFrame": 0,
+      "durationFrames": 1505,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-deployment-and-security",
+      "assetId": "narration-deployment-and-security",
+      "startFrame": 1523,
+      "durationFrames": 1477,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-discovery-14",
+      "assetId": "narration-discovery-14",
+      "startFrame": 3018,
+      "durationFrames": 1377,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-choices-16-20",
+      "assetId": "narration-choices-16-20",
+      "startFrame": 4413,
+      "durationFrames": 1653,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-signal-22",
+      "assetId": "narration-signal-22",
+      "startFrame": 6084,
+      "durationFrames": 1453,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-quarantine-24",
+      "assetId": "narration-quarantine-24",
+      "startFrame": 7555,
+      "durationFrames": 1500,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-un-25",
+      "assetId": "narration-un-25",
+      "startFrame": 9073,
+      "durationFrames": 1480,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-proposal-26",
+      "assetId": "narration-proposal-26",
+      "startFrame": 10571,
+      "durationFrames": 1412,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-castro-warning",
+      "assetId": "narration-castro-warning",
+      "startFrame": 12001,
+      "durationFrames": 1468,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-turkey-27",
+      "assetId": "narration-turkey-27",
+      "startFrame": 13487,
+      "durationFrames": 1406,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-u2-27",
+      "assetId": "narration-u2-27",
+      "startFrame": 14911,
+      "durationFrames": 1415,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-b59-risk",
+      "assetId": "narration-b59-risk",
+      "startFrame": 16344,
+      "durationFrames": 1705,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-two-track-agreement",
+      "assetId": "narration-two-track-agreement",
+      "startFrame": 18067,
+      "durationFrames": 1674,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-withdrawal-28",
+      "assetId": "narration-withdrawal-28",
+      "startFrame": 19759,
+      "durationFrames": 1505,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-verification-november",
+      "assetId": "narration-verification-november",
+      "startFrame": 21282,
+      "durationFrames": 1659,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-hotline-1963",
+      "assetId": "narration-hotline-1963",
+      "startFrame": 22959,
+      "durationFrames": 1346,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-test-ban-1963",
+      "assetId": "narration-test-ban-1963",
+      "startFrame": 24323,
+      "durationFrames": 1476,
+      "playbackRate": 1
+    },
+    {
+      "id": "narration-what-explains-outcome",
+      "assetId": "narration-what-explains-outcome",
+      "startFrame": 25817,
+      "durationFrames": 1658,
+      "playbackRate": 1
+    }
+  ],
+  "assets": [
+    {
+      "id": "narration-cuba-before-crisis",
+      "file": {
+        "path": "audio/narration-cuba-before-crisis.mp3",
+        "sha256": "8b2c5adf0ea505bcb46a17882d627904ad757ea6c64e4807b64b0709f387407c"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-deployment-and-security",
+      "file": {
+        "path": "audio/narration-deployment-and-security.mp3",
+        "sha256": "3a7f50194ca352cd04a4d544f46cf1540e3aa04601d556013cc28c1a81ea6131"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-discovery-14",
+      "file": {
+        "path": "audio/narration-discovery-14.mp3",
+        "sha256": "77b73e862db5593f288e5e0fc05905a2e7497a70a3c978ba4ba72450f881fb94"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-choices-16-20",
+      "file": {
+        "path": "audio/narration-choices-16-20.mp3",
+        "sha256": "7f3a6c1fb89742195768f5ed574a4c588a9f7c26eb2cc487dfae3b11e5122571"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-signal-22",
+      "file": {
+        "path": "audio/narration-signal-22.mp3",
+        "sha256": "e8e1d84150aea31119ea9b5be32de59b0a663086b24be8c0e64b37463d7d6513"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-quarantine-24",
+      "file": {
+        "path": "audio/narration-quarantine-24.mp3",
+        "sha256": "ab27c2f1d4ffb279bf1125d31e34837efb31d5df30c21a50a4b28d4cc1b5f7a3"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-un-25",
+      "file": {
+        "path": "audio/narration-un-25.mp3",
+        "sha256": "8ee2caf4b2fea59666aa1263438648ec3db5513b4942d815eeed8c8c4f32b084"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-proposal-26",
+      "file": {
+        "path": "audio/narration-proposal-26.mp3",
+        "sha256": "8db8b2635d3cc69c7c7e68cf0a80c7523610d8ced187a4db57936d5406176b63"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-castro-warning",
+      "file": {
+        "path": "audio/narration-castro-warning.mp3",
+        "sha256": "22d8ae07b72b1017f33dbc29b53154789716a674d1e0d0238d893c2a98015cca"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-turkey-27",
+      "file": {
+        "path": "audio/narration-turkey-27.mp3",
+        "sha256": "b8b455af54b170f22055daafd6518227bc28d6380dedce44534f4641e854c593"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-u2-27",
+      "file": {
+        "path": "audio/narration-u2-27.mp3",
+        "sha256": "118b5eca5c44da4f76ce130fd177f78e3bcbcfb8d88b50171ecbc0d8d104ce61"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-b59-risk",
+      "file": {
+        "path": "audio/narration-b59-risk.mp3",
+        "sha256": "0bc7beffe10b52bc7fcebd64388f075c7144cab1e188e5bdeabe31b79266264b"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-two-track-agreement",
+      "file": {
+        "path": "audio/narration-two-track-agreement.mp3",
+        "sha256": "7c395aea2888b1a69b3fa3feebd771b59bad4c15150da379207335667ebf1729"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-withdrawal-28",
+      "file": {
+        "path": "audio/narration-withdrawal-28.mp3",
+        "sha256": "04ac6fffec1fd9df9b88c28c6e2f21dfe88358cda62f83e638cd2b798e5783d8"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-verification-november",
+      "file": {
+        "path": "audio/narration-verification-november.mp3",
+        "sha256": "450a38dcf1ad1d8f57e1483219177b0d58bb5ea6d5c5721284d4e32757fe0f28"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-hotline-1963",
+      "file": {
+        "path": "audio/narration-hotline-1963.mp3",
+        "sha256": "dee600e35db588c264583e6f299ef4c4218add0a57593c689af01a6810aab6cf"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-test-ban-1963",
+      "file": {
+        "path": "audio/narration-test-ban-1963.mp3",
+        "sha256": "927d21848e5ab88600da9dfd422185039578a9e30d9c3413d5e81c60556d7070"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    },
+    {
+      "id": "narration-what-explains-outcome",
+      "file": {
+        "path": "audio/narration-what-explains-outcome.mp3",
+        "sha256": "8ed524759ab665bc66397c8a45da6132843da578d4fe27cf85d614b9340a483a"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd / Chinese (Mandarin)_Radio_Host",
+        "license": "用户授权生成的MiniMax配音；使用遵循服务条款"
+      }
+    }
+  ],
+  "captions": {
+    "narration-cuba-before-crisis": [
+      {
+        "text": "1962年，为什么一座加勒比海岛屿，会把美苏推到核战争边缘？",
+        "startMs": 260,
+        "endMs": 5040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2-p1",
+          "run-0-c2-p2"
+        ]
+      },
+      {
+        "text": "要理解这场危机，得先看看古巴人此前经历了什么。",
+        "startMs": 5460,
+        "endMs": 8980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "1959年，卡斯特罗领导的新政权取代巴蒂斯塔政府。",
+        "startMs": 9400,
+        "endMs": 13480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "古巴随后接收美国在岛上的经济资产，又逐渐靠近苏联。",
+        "startMs": 13700,
+        "endMs": 18040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9",
+          "run-0-c10",
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "华盛顿担心社会主义阵营来到家门口，哈瓦那担心的却是美国会不会推翻自己。",
+        "startMs": 18500,
+        "endMs": 23900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12",
+          "run-0-c13",
+          "run-0-c14",
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "1961年4月17日，美国中央情报局训练、资助的古巴流亡者部队在猪湾登陆，",
+        "startMs": 24340,
+        "endMs": 30120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16",
+          "run-0-c17",
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "大约两天后失败。美国此后仍推动代号“猫鼬”的秘密行动，企图推翻卡斯特罗。",
+        "startMs": 30480,
+        "endMs": 36140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19",
+          "run-0-c20",
+          "run-0-c21",
+          "run-0-c22"
+        ]
+      },
+      {
+        "text": "对古巴领导人来说，再次入侵并不是遥远的想象。",
+        "startMs": 36440,
+        "endMs": 40140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c23",
+          "run-0-c24",
+          "run-0-c25"
+        ]
+      },
+      {
+        "text": "不过，害怕入侵，不等于知道美国已经决定哪一天动手。",
+        "startMs": 40860,
+        "endMs": 45200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c26",
+          "run-0-c27"
+        ]
+      },
+      {
+        "text": "正是在这种威胁和不确定中，古巴与苏联作出了下一步选择。",
+        "startMs": 45380,
+        "endMs": 49940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c28",
+          "run-0-c29",
+          "run-0-c30"
+        ]
+      }
+    ],
+    "narration-deployment-and-security": [
+      {
+        "text": "1962年夏，赫鲁晓夫与古巴方面秘密商定，把苏联核导弹部署到岛上。",
+        "startMs": 280,
+        "endMs": 5900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "古巴希望让美国明白：再次入侵，会付出难以承受的代价。",
+        "startMs": 6960,
+        "endMs": 11240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "赫鲁晓夫也在信中强调古巴的防御，并反问，",
+        "startMs": 11580,
+        "endMs": 14800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7",
+          "run-0-c8",
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "美国可以把基地和导弹放在苏联周边，苏联为什么不能援助自己的盟友？",
+        "startMs": 15220,
+        "endMs": 19900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10",
+          "run-0-c11",
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "但站在美国政府的角度，能够从邻近岛屿打击美国的核导弹，",
+        "startMs": 20380,
+        "endMs": 24580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13",
+          "run-0-c14",
+          "run-0-c15",
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "又是在秘密中运来的，显然构成了新的威胁。",
+        "startMs": 25000,
+        "endMs": 28900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17",
+          "run-0-c18",
+          "run-0-c19"
+        ]
+      },
+      {
+        "text": "同一批武器，在一方眼中是保障安全，在另一方眼中却让自己更加不安全。",
+        "startMs": 29220,
+        "endMs": 35940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c20",
+          "run-0-c21",
+          "run-0-c22"
+        ]
+      },
+      {
+        "text": "与此同时，古巴同意部署，并不意味着卡斯特罗可以决定苏联核武器怎样使用；",
+        "startMs": 36400,
+        "endMs": 41860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c23",
+          "run-0-c24",
+          "run-0-c25-p1",
+          "run-0-c25-p2"
+        ]
+      },
+      {
+        "text": "苏联以后怎样谈撤除，也未必会让古巴满意。",
+        "startMs": 42180,
+        "endMs": 45600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c26"
+        ]
+      },
+      {
+        "text": "这场危机从一开始，就不只有两个大国的意志。",
+        "startMs": 45900,
+        "endMs": 49060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c27",
+          "run-0-c28"
+        ]
+      }
+    ],
+    "narration-discovery-14": [
+      {
+        "text": "秘密部署终于被发现。10月14日，",
+        "startMs": 120,
+        "endMs": 3380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "美国U-2侦察机拍到了圣克里斯托瓦尔一带的导弹设施。",
+        "startMs": 3700,
+        "endMs": 7980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "照片还要经过处理和专业判读，消息才能进入总统的决策。",
+        "startMs": 8400,
+        "endMs": 12720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "肯尼迪是在10月16日早晨听取简报的。",
+        "startMs": 13080,
+        "endMs": 15940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "后来人们常说的“十三天”，就是从16日算到28日。",
+        "startMs": 16300,
+        "endMs": 19880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9",
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "对肯尼迪来说，照片让怀疑变成了必须处理的具体问题，",
+        "startMs": 20500,
+        "endMs": 24600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11",
+          "run-0-c12",
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "却没有让所有疑问消失：发射场什么时候能用？还有多少武器没有发现？",
+        "startMs": 25080,
+        "endMs": 30520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14",
+          "run-0-c15",
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "如果下令攻击，能不能一次清除全部威胁？",
+        "startMs": 30800,
+        "endMs": 34320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17",
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "看见设施，并不等于掌握全部核弹头的位置，",
+        "startMs": 34820,
+        "endMs": 38160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19",
+          "run-0-c20"
+        ]
+      },
+      {
+        "text": "更不等于知道莫斯科接下来会怎么做。",
+        "startMs": 38500,
+        "endMs": 41220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c21"
+        ]
+      },
+      {
+        "text": "总统和顾问们必须在信息不完整的情况下，决定美国如何回应。",
+        "startMs": 41400,
+        "endMs": 45760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      }
+    ],
+    "narration-choices-16-20": [
+      {
+        "text": "从16日起，肯尼迪与核心顾问反复讨论。",
+        "startMs": 100,
+        "endMs": 3380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "一个办法是空袭导弹设施，必要时进一步入侵。",
+        "startMs": 3780,
+        "endMs": 8360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "另一个办法，是先实行海上隔离，阻止新的进攻性装备进入，同时继续交涉。",
+        "startMs": 8620,
+        "endMs": 15880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8",
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "空袭看起来直接，但谁也不能轻易保证所有目标都能摧毁。",
+        "startMs": 16280,
+        "endMs": 20360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10",
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "如果苏联人员大量伤亡，莫斯科又会在哪里、以什么方式还击？",
+        "startMs": 20960,
+        "endMs": 25640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12",
+          "run-0-c13",
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "入侵会把这些风险进一步放大。海上隔离也有明显弱点：",
+        "startMs": 26240,
+        "endMs": 30500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15",
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "它挡不住已经在岛上的导弹，却能让美国分步施压，给下一轮决定留出时间。",
+        "startMs": 30880,
+        "endMs": 36080,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19",
+          "run-0-c20",
+          "run-0-c21"
+        ]
+      },
+      {
+        "text": "10月20日，肯尼迪选择了隔离。这个决定并没有终止军事准备，",
+        "startMs": 36660,
+        "endMs": 41460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c22",
+          "run-0-c23",
+          "run-0-c24"
+        ]
+      },
+      {
+        "text": "也没有保证外交一定成功。顾问们此前已经讨论了好几天，",
+        "startMs": 41740,
+        "endMs": 46280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c25",
+          "run-0-c26"
+        ]
+      },
+      {
+        "text": "正式的执行委员会到22日才成立。",
+        "startMs": 46540,
+        "endMs": 49120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c27",
+          "run-0-c28"
+        ]
+      },
+      {
+        "text": "真正关键的，是总统暂时没有把自己锁进立即开战的道路。",
+        "startMs": 49720,
+        "endMs": 54880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c29",
+          "run-0-c30",
+          "run-0-c31",
+          "run-0-c32"
+        ]
+      }
+    ],
+    "narration-signal-22": [
+      {
+        "text": "10月22日晚7时，肯尼迪走到电视镜头前，",
+        "startMs": 140,
+        "endMs": 3720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "向公众公布苏联在古巴部署导弹的情况，要求撤除，并宣布海上隔离。",
+        "startMs": 3940,
+        "endMs": 10340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "美国民众此时才知道的事，白宫已经秘密讨论了近一周。",
+        "startMs": 10600,
+        "endMs": 14120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7",
+          "run-0-c8",
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "讲话把政府的要求变成公开承诺，也把压力传给苏联、盟友和国内社会。",
+        "startMs": 14400,
+        "endMs": 19920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10",
+          "run-0-c11",
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "同一天，肯尼迪还致信赫鲁晓夫，要求移除威胁，同时表达一个判断：",
+        "startMs": 20300,
+        "endMs": 25320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13",
+          "run-0-c14",
+          "run-0-c15",
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "对方不会有意把世界拖进谁都无法获胜的战争。",
+        "startMs": 25660,
+        "endMs": 28800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17",
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "强硬要求与防止误判，就这样放在同一次沟通里。",
+        "startMs": 29180,
+        "endMs": 33400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19",
+          "run-0-c20",
+          "run-0-c21"
+        ]
+      },
+      {
+        "text": "公开表态能争取支持，却也会让改变政策更加困难。",
+        "startMs": 33740,
+        "endMs": 38360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "因此，领导人在公开立场之外，还需要能试探退路的私下渠道。",
+        "startMs": 38880,
+        "endMs": 43740,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25",
+          "run-0-c26",
+          "run-0-c27"
+        ]
+      },
+      {
+        "text": "接下来，海上的实际接触会检验这些话究竟意味着什么。",
+        "startMs": 44120,
+        "endMs": 48300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c28",
+          "run-0-c29",
+          "run-0-c30",
+          "run-0-c31"
+        ]
+      }
+    ],
+    "narration-quarantine-24": [
+      {
+        "text": "美国把海上行动称为“隔离”，用这个词区别于通常意味着战争状态的“封锁”，",
+        "startMs": 100,
+        "endMs": 5560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "也争取法律和地区支持。但苏联并不接受这套解释，",
+        "startMs": 5860,
+        "endMs": 10140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "赫鲁晓夫仍把行动视为胁迫和侵略。",
+        "startMs": 10680,
+        "endMs": 13440,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "隔离从24日开始，针对的是运往古巴的进攻性军事装备，",
+        "startMs": 13760,
+        "endMs": 18500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8",
+          "run-0-c9",
+          "run-0-c10",
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "并非禁止一切民用航运。一些苏联货船转向，",
+        "startMs": 18960,
+        "endMs": 22320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12",
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "一些经过检查，或者被认定没有运送违禁装备后，继续航行。",
+        "startMs": 22680,
+        "endMs": 26940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14-p1",
+          "run-0-c14-p2"
+        ]
+      },
+      {
+        "text": "25日，运送石油的“布加勒斯特”号就获准通过。",
+        "startMs": 27280,
+        "endMs": 31380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15",
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "船只转向给了双方一点喘息空间，却没有解决岛上的问题：",
+        "startMs": 31580,
+        "endMs": 35980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19",
+          "run-0-c20"
+        ]
+      },
+      {
+        "text": "已有的导弹设施仍在推进，海空部队也越来越接近。",
+        "startMs": 36460,
+        "endMs": 40160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c21",
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "美国希望用压力换来撤弹，苏方却可能把持续施压理解为攻击的前奏。",
+        "startMs": 40560,
+        "endMs": 45760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25",
+          "run-0-c26"
+        ]
+      },
+      {
+        "text": "谈判多得到一天，危险并不一定少一天。",
+        "startMs": 46500,
+        "endMs": 49740,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c27",
+          "run-0-c28"
+        ]
+      }
+    ],
+    "narration-un-25": [
+      {
+        "text": "25日，对抗也来到联合国。美国驻联合国代表史蒂文森在安理会展示侦察照片，",
+        "startMs": 120,
+        "endMs": 6520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3-p1",
+          "run-0-c3-p2"
+        ]
+      },
+      {
+        "text": "质问苏联代表佐林。此前在秘密会议里讨论的图像，现在成了争取国际支持的证据。",
+        "startMs": 7000,
+        "endMs": 13340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "联合国代理秘书长吴丹则尝试让双方缓和接触，给谈判争取时间。",
+        "startMs": 13800,
+        "endMs": 18420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9",
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "但暂缓行动，对美国也有风险：导弹可能继续留在岛上，甚至继续完成部署。",
+        "startMs": 18880,
+        "endMs": 24700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11",
+          "run-0-c12",
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "对苏联来说，怎样保住古巴，又怎样让美国接受撤退条件，同样没有现成答案。",
+        "startMs": 25160,
+        "endMs": 30640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14",
+          "run-0-c15",
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "联合国提供了沟通与讨论核查的场所，却不能代替各方作出承诺。",
+        "startMs": 31180,
+        "endMs": 36460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19",
+          "run-0-c20"
+        ]
+      },
+      {
+        "text": "照片可以证明某些设施存在，但谁来检查，怎么确认撤走，",
+        "startMs": 36920,
+        "endMs": 41840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c21",
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "有关国家是否同意，都还需要谈。",
+        "startMs": 42280,
+        "endMs": 44640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25"
+        ]
+      },
+      {
+        "text": "就在公开对抗持续的时候，另一条可能的退路出现了。",
+        "startMs": 45380,
+        "endMs": 49020,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c26",
+          "run-0-c27",
+          "run-0-c28",
+          "run-0-c29"
+        ]
+      }
+    ],
+    "narration-proposal-26": [
+      {
+        "text": "26日，记者约翰·斯卡利接到苏联使馆人员福明传来的方案。",
+        "startMs": 240,
+        "endMs": 4680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "同一天，赫鲁晓夫的长信也抵达华盛顿。",
+        "startMs": 5080,
+        "endMs": 8260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "两条渠道指向相近的方向：如果美国保证不入侵古巴，",
+        "startMs": 8580,
+        "endMs": 12440,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7",
+          "run-0-c8",
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "撤除有关武器就有了谈判基础。赫鲁晓夫在信中反复谈到战争失控的危险。",
+        "startMs": 12500,
+        "endMs": 17980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10",
+          "run-0-c11",
+          "run-0-c12",
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "他强调，苏联援古是为了防御；如果古巴不再遭受攻击的威胁，",
+        "startMs": 18180,
+        "endMs": 23160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14",
+          "run-0-c15",
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "部署武器的需要也会改变。这还不是协议，",
+        "startMs": 23440,
+        "endMs": 27100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17",
+          "run-0-c18",
+          "run-0-c19"
+        ]
+      },
+      {
+        "text": "但双方终于能够讨论一种交换承诺、共同后退的可能。",
+        "startMs": 27480,
+        "endMs": 31480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c20",
+          "run-0-c21",
+          "run-0-c22"
+        ]
+      },
+      {
+        "text": "华盛顿仍然要判断，中间人的传话有没有充分授权，",
+        "startMs": 31740,
+        "endMs": 35320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c23",
+          "run-0-c24"
+        ]
+      },
+      {
+        "text": "正式来信又能落实到什么程度。相近的消息，也不能直接当成同一条指挥链的产物。",
+        "startMs": 35520,
+        "endMs": 41800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c25",
+          "run-0-c26",
+          "run-0-c27",
+          "run-0-c28"
+        ]
+      },
+      {
+        "text": "更紧迫的是，外交的窗口打开了，军事行动却没有停下来。",
+        "startMs": 42080,
+        "endMs": 46920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c29",
+          "run-0-c30",
+          "run-0-c31",
+          "run-0-c32",
+          "run-0-c33"
+        ]
+      }
+    ],
+    "narration-castro-warning": [
+      {
+        "text": "同样在26日，卡斯特罗给赫鲁晓夫写信。",
+        "startMs": 240,
+        "endMs": 3540,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "他判断，美国可能在未来24到72小时内采取行动，可能是空袭，",
+        "startMs": 4000,
+        "endMs": 9480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4-p1",
+          "run-0-c4-p2",
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "也可能是入侵。古巴的恐惧，和白宫讨论怎样避免失控的心情，并不相同。",
+        "startMs": 9700,
+        "endMs": 16100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8",
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "卡斯特罗甚至在美国入侵古巴这一条件下，提出极端的核升级意见，",
+        "startMs": 16460,
+        "endMs": 20800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10",
+          "run-0-c11",
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "担心苏联如果被动等待，会失去反击机会。",
+        "startMs": 21220,
+        "endMs": 24540,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "这个条件不能省略：信件不是一份美国已经批准入侵的情报，",
+        "startMs": 24920,
+        "endMs": 28540,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14",
+          "run-0-c15",
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "也不能简单说成卡斯特罗要求苏联立刻核打击美国。",
+        "startMs": 28860,
+        "endMs": 32460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17-p1",
+          "run-0-c17-p2"
+        ]
+      },
+      {
+        "text": "但它确实说明，对战争迫近的恐惧，可能把人推向会造成更大灾难的主张。",
+        "startMs": 32640,
+        "endMs": 38200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19",
+          "run-0-c20"
+        ]
+      },
+      {
+        "text": "苏联驻古大使27日的报告，也记录了卡斯特罗的判断。",
+        "startMs": 38600,
+        "endMs": 42320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c21",
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "古巴有自己的意见，却没有与华盛顿、莫斯科共同掌握一个同步透明的决策过程。",
+        "startMs": 42980,
+        "endMs": 48660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25",
+          "run-0-c26",
+          "run-0-c27",
+          "run-0-c28"
+        ]
+      }
+    ],
+    "narration-turkey-27": [
+      {
+        "text": "27日，赫鲁晓夫又提出了一套更明确的条件：",
+        "startMs": 200,
+        "endMs": 3640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "苏联撤除古巴的有关武器，美国也撤除土耳其的同类武器，并作出安全承诺。",
+        "startMs": 4140,
+        "endMs": 10600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "这与26日主要围绕不入侵古巴的来信，有了重要区别。",
+        "startMs": 10980,
+        "endMs": 14720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9",
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "赫鲁晓夫把美国对古巴的担忧，和苏联对土耳其的担忧放在一起，要求对称处理。",
+        "startMs": 15120,
+        "endMs": 20780,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11",
+          "run-0-c12",
+          "run-0-c13",
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "但土耳其是美国的北约盟友，朱庇特导弹也不仅是一批军事装备。",
+        "startMs": 21200,
+        "endMs": 26300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15",
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "即使已有淘汰背景，在公开压力下宣布拿盟友境内的武器作交换，",
+        "startMs": 26620,
+        "endMs": 30820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19",
+          "run-0-c20"
+        ]
+      },
+      {
+        "text": "仍会影响盟友对美国承诺的信任。",
+        "startMs": 31120,
+        "endMs": 33400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c21",
+          "run-0-c22"
+        ]
+      },
+      {
+        "text": "苏方提议还说，国际人员进入古巴和土耳其检查，需要两国政府同意。",
+        "startMs": 33660,
+        "endMs": 38900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c23",
+          "run-0-c24-p1",
+          "run-0-c24-p2"
+        ]
+      },
+      {
+        "text": "于是，谈判不仅是两位领导人肯不肯让步，",
+        "startMs": 39320,
+        "endMs": 42100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c25"
+        ]
+      },
+      {
+        "text": "还涉及他们能怎样向盟友解释，以及别国是否接受执行办法。",
+        "startMs": 42400,
+        "endMs": 46680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c26",
+          "run-0-c27"
+        ]
+      }
+    ],
+    "narration-u2-27": [
+      {
+        "text": "就在这些条件来回传递的时候，27日，",
+        "startMs": 340,
+        "endMs": 3080,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "一架美国U-2侦察机在古巴上空被地空导弹击落，飞行员鲁道夫·安德森少校死亡。",
+        "startMs": 3400,
+        "endMs": 10500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "此前的威胁和部署争议，已经变成了美国人员的实际死亡。",
+        "startMs": 10900,
+        "endMs": 14860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7",
+          "run-0-c8",
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "立即打击导弹阵地的压力随之上升，",
+        "startMs": 15140,
+        "endMs": 18240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10",
+          "run-0-c11",
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "但肯尼迪没有马上批准报复，而是在执行委员会的讨论中抵制立即动武。",
+        "startMs": 18580,
+        "endMs": 23820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13",
+          "run-0-c14",
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "如果每一次攻击都自动触发下一轮攻击，谈判可能还没得出结果，就已经失去意义。",
+        "startMs": 24280,
+        "endMs": 30160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "继续交涉，则要承受顾问和国内的压力，",
+        "startMs": 30540,
+        "endMs": 33180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19"
+        ]
+      },
+      {
+        "text": "还要承担对方可能进一步行动的风险。",
+        "startMs": 33560,
+        "endMs": 36060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c20",
+          "run-0-c21"
+        ]
+      },
+      {
+        "text": "肯尼迪暂时压住了一次升级，并不意味着他已经掌控整个现场。",
+        "startMs": 36900,
+        "endMs": 41460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "海空部队仍在行动，下一次接触会被怎样理解，没有人能够保证。",
+        "startMs": 41900,
+        "endMs": 46920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25",
+          "run-0-c26"
+        ]
+      }
+    ],
+    "narration-b59-risk": [
+      {
+        "text": "海面之下，也有白宫和克里姆林宫难以及时看清的危险。",
+        "startMs": 140,
+        "endMs": 4200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1-p1",
+          "run-0-c1-p2",
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "后来公开的苏方任务报告记载，赴古巴的四艘潜艇，每艘都带有一枚核鱼雷。",
+        "startMs": 5080,
+        "endMs": 11400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "B-59潜艇在搜索压力下最终浮出，报告还记下了电池耗尽等情况。",
+        "startMs": 11840,
+        "endMs": 17800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "美国的识别规则设计了爆炸声信号，",
+        "startMs": 18180,
+        "endMs": 20560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9",
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "目的是迫使潜艇浮出，并非发动致命攻击。",
+        "startMs": 21060,
+        "endMs": 24780,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11",
+          "run-0-c12",
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "但美方想传达什么，艇内的人怎样理解，不是一回事。",
+        "startMs": 25460,
+        "endMs": 29640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14",
+          "run-0-c15",
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "通信受限、疲惫和对战争是否已经开始的疑问，都可能让信号变成威胁。",
+        "startMs": 30100,
+        "endMs": 35240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19",
+          "run-0-c20",
+          "run-0-c21"
+        ]
+      },
+      {
+        "text": "关于舰长曾下令准备核鱼雷的具体说法，",
+        "startMs": 35600,
+        "endMs": 38120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "主要来自多年后的参与者回忆，同期任务报告没有记下这场发射争议。",
+        "startMs": 38480,
+        "endMs": 43680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25",
+          "run-0-c26",
+          "run-0-c27"
+        ]
+      },
+      {
+        "text": "因此，不能把“三人投票”“只差几秒”或",
+        "startMs": 43900,
+        "endMs": 45960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c28-p1"
+        ]
+      },
+      {
+        "text": "“一个人救了世界”，讲成已经由当时日志证实的情节。",
+        "startMs": 45960,
+        "endMs": 50480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c28-p2",
+          "run-0-c28-p3",
+          "run-0-c29"
+        ]
+      },
+      {
+        "text": "即使不采用这些戏剧化细节，",
+        "startMs": 50800,
+        "endMs": 52600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c30",
+          "run-0-c31"
+        ]
+      },
+      {
+        "text": "核武器与强制浮出行动相遇，本身已经足够危险。",
+        "startMs": 52780,
+        "endMs": 56580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c32"
+        ]
+      }
+    ],
+    "narration-two-track-agreement": [
+      {
+        "text": "27日晚，肯尼迪公开回应赫鲁晓夫26日的来信，",
+        "startMs": 340,
+        "endMs": 4420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "抓住了较容易公开接受的那条退路：",
+        "startMs": 4820,
+        "endMs": 7200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "苏方撤除有关武器，在联合国安排下核查，",
+        "startMs": 8040,
+        "endMs": 11220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6",
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "美方相应解除隔离，并给予不入侵保证。",
+        "startMs": 11500,
+        "endMs": 14960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8",
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "公开回复没有承诺用土耳其导弹直接交换。",
+        "startMs": 15340,
+        "endMs": 18940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "同一晚，司法部长罗伯特·肯尼迪秘密会见苏联驻美大使多勃雷宁，",
+        "startMs": 19360,
+        "endMs": 24420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11",
+          "run-0-c12-p1",
+          "run-0-c12-p2"
+        ]
+      },
+      {
+        "text": "谈到了美国将撤除土耳其朱庇特导弹，但不公开宣布这项安排。",
+        "startMs": 24780,
+        "endMs": 29720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13",
+          "run-0-c14",
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "罗伯特·肯尼迪三天后写的备忘录，与赫鲁晓夫28日的私信，可以互相对照；",
+        "startMs": 30020,
+        "endMs": 35480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16",
+          "run-0-c17",
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "前者还留下四五个月期限的文字被删去的痕迹。",
+        "startMs": 36060,
+        "endMs": 39600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19",
+          "run-0-c20",
+          "run-0-c21"
+        ]
+      },
+      {
+        "text": "所以，既不能说美国完全没有让步，",
+        "startMs": 39860,
+        "endMs": 42280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "也不能说双方当众签下了同时交换导弹的完整协议。",
+        "startMs": 42600,
+        "endMs": 46220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25"
+        ]
+      },
+      {
+        "text": "更准确的理解，是公开解决框架之外，还有处理土耳其导弹的保密谅解。",
+        "startMs": 46800,
+        "endMs": 52040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c26",
+          "run-0-c27",
+          "run-0-c28",
+          "run-0-c29",
+          "run-0-c30"
+        ]
+      },
+      {
+        "text": "两条安排共同为退出对抗创造了空间。",
+        "startMs": 52460,
+        "endMs": 55480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c31"
+        ]
+      }
+    ],
+    "narration-withdrawal-28": [
+      {
+        "text": "28日，莫斯科广播公布赫鲁晓夫接受解决方案、",
+        "startMs": 140,
+        "endMs": 3720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "拆除并撤走古巴导弹的决定。",
+        "startMs": 3980,
+        "endMs": 6220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "美国谨慎欢迎这一消息。“十三天”的危险高峰终于过去，",
+        "startMs": 6680,
+        "endMs": 10500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5",
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "双方不再只剩下继续施压或发动攻击的选择。",
+        "startMs": 10900,
+        "endMs": 14140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9",
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "但广播里宣布撤弹，和所有设备已经运走，是两件事。",
+        "startMs": 14420,
+        "endMs": 18660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11-p1",
+          "run-0-c11-p2"
+        ]
+      },
+      {
+        "text": "拆卸、运输、核查，以及怎样解释各项承诺，仍然需要继续交涉。",
+        "startMs": 19120,
+        "endMs": 25480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12",
+          "run-0-c13",
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "古巴也没有因为美苏达成安排就自动满意。",
+        "startMs": 25820,
+        "endMs": 28620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "苏联驻古大使11月2日的报告，记录了卡斯特罗对撤弹处置的不满。",
+        "startMs": 29060,
+        "endMs": 33920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16",
+          "run-0-c17",
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "苏联帮助古巴增强防御，",
+        "startMs": 34120,
+        "endMs": 35920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19"
+        ]
+      },
+      {
+        "text": "却又在对美交涉中决定撤除，盟友之间的风险和控制权问题，就这样显露出来。",
+        "startMs": 36180,
+        "endMs": 42220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c20",
+          "run-0-c21",
+          "run-0-c22"
+        ]
+      },
+      {
+        "text": "最急迫的对抗获得了退路，",
+        "startMs": 42780,
+        "endMs": 44380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c23",
+          "run-0-c24"
+        ]
+      },
+      {
+        "text": "围绕安全、主权和信任的矛盾，却不会随着一则声明一同消失。",
+        "startMs": 44780,
+        "endMs": 49940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c25",
+          "run-0-c26",
+          "run-0-c27"
+        ]
+      }
+    ],
+    "narration-verification-november": [
+      {
+        "text": "接下来，承诺必须变成看得见的撤除。",
+        "startMs": 300,
+        "endMs": 3400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "导弹从发射场拆下，还要装船运离古巴；",
+        "startMs": 3900,
+        "endMs": 7260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "美国则继续通过海上安排与侦察，确认撤除进展。",
+        "startMs": 7740,
+        "endMs": 12000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "11月7日，“金属工人阿诺索夫”号离开古巴，",
+        "startMs": 12420,
+        "endMs": 16000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "留下了载有帆布覆盖导弹运输车辆的照片。",
+        "startMs": 16480,
+        "endMs": 18940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9",
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "但一艘船驶离，并不能证明全部有关武器都已撤尽。",
+        "startMs": 19700,
+        "endMs": 23420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11",
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "IL-28轰炸机又成为后续交涉的议题，",
+        "startMs": 23820,
+        "endMs": 26980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13",
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "美国直到11月20日才解除海上隔离。",
+        "startMs": 27620,
+        "endMs": 30700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "原先设想的古巴境内国际检查，也没有按计划实现。",
+        "startMs": 31200,
+        "endMs": 35020,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "另一条执行线更晚：",
+        "startMs": 35720,
+        "endMs": 37200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "土耳其的朱庇特导弹在1963年4月撤除。",
+        "startMs": 37540,
+        "endMs": 41320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19",
+          "run-0-c20"
+        ]
+      },
+      {
+        "text": "这样看，危机的结局有一个过程：",
+        "startMs": 41620,
+        "endMs": 43980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c21",
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "10月28日先形成政治退路，随后落实武器和海上安排，再兑现保密谅解。",
+        "startMs": 44380,
+        "endMs": 50060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25",
+          "run-0-c26"
+        ]
+      },
+      {
+        "text": "真正让局势改变的，不只是承诺本身，还有这些并不容易完成的步骤。",
+        "startMs": 50240,
+        "endMs": 55100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c27",
+          "run-0-c28",
+          "run-0-c29",
+          "run-0-c30",
+          "run-0-c31"
+        ]
+      }
+    ],
+    "narration-hotline-1963": [
+      {
+        "text": "危机也让美苏看到，消息传得慢、渠道彼此重叠、意图难以确认，会增加怎样的危险。",
+        "startMs": 220,
+        "endMs": 7660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2",
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "1963年6月20日，两国在日内瓦签署并使直接通信链路备忘录生效，",
+        "startMs": 8020,
+        "endMs": 13080,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5",
+          "run-0-c6-p1",
+          "run-0-c6-p2"
+        ]
+      },
+      {
+        "text": "为紧急情况建立持续运行、及时把消息送达政府首脑的机制。",
+        "startMs": 13360,
+        "endMs": 17860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7",
+          "run-0-c8",
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "这就是后来常说的华盛顿与莫斯科热线。",
+        "startMs": 18040,
+        "endMs": 20300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10",
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "它最初是传送文字消息的电传链路，并不是两位领导人可以直接互拨的红色电话。",
+        "startMs": 20580,
+        "endMs": 26000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12",
+          "run-0-c13",
+          "run-0-c14",
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "遇到需要迅速澄清的情况，直接渠道能够减少延误和误解。",
+        "startMs": 26440,
+        "endMs": 30340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16",
+          "run-0-c17",
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "但通信更快，并不能让政治分歧自动消失。",
+        "startMs": 30600,
+        "endMs": 34060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19"
+        ]
+      },
+      {
+        "text": "双方只是试着把一项已经暴露的危险，变成可以具体改进的机制。",
+        "startMs": 34400,
+        "endMs": 38920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c20",
+          "run-0-c21",
+          "run-0-c22"
+        ]
+      },
+      {
+        "text": "与此同时，另一个范围有限、却同样重要的合作，也取得了进展。",
+        "startMs": 39460,
+        "endMs": 44560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c23",
+          "run-0-c24",
+          "run-0-c25"
+        ]
+      }
+    ],
+    "narration-test-ban-1963": [
+      {
+        "text": "1963年，美、苏、英签署有限禁止核试验条约，",
+        "startMs": 260,
+        "endMs": 4640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "禁止在大气层、外空和水下进行核试验，却没有禁止地下核试验。",
+        "startMs": 5080,
+        "endMs": 9960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3",
+          "run-0-c4",
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "这是有限的军控成果，并不是全面裁军。",
+        "startMs": 10380,
+        "endMs": 12940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6",
+          "run-0-c7",
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "谈判也并非危机之后才突然开始：早在1958年，",
+        "startMs": 13360,
+        "endMs": 17180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9",
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "各方就已展开禁试谈判，",
+        "startMs": 17460,
+        "endMs": 19320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "长期争执包括怎样核查地下爆炸，以及是否允许现场检查。",
+        "startMs": 19700,
+        "endMs": 24860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12-p1",
+          "run-0-c12-p2"
+        ]
+      },
+      {
+        "text": "古巴危机增强了避免核灾难的动力，",
+        "startMs": 25260,
+        "endMs": 28300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13",
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "而缩小协议范围，让更容易达成的部分先取得了进展。",
+        "startMs": 28840,
+        "endMs": 32820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15",
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "合作需要动力，也需要具体取舍。",
+        "startMs": 33620,
+        "endMs": 36300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19"
+        ]
+      },
+      {
+        "text": "美苏更清楚核对抗失控的代价，愿意在部分问题上合作，",
+        "startMs": 36860,
+        "endMs": 40780,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c20",
+          "run-0-c21",
+          "run-0-c22"
+        ]
+      },
+      {
+        "text": "同时又保留核武器、同盟体系和竞争。",
+        "startMs": 41220,
+        "endMs": 43800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "避免了一场战争，并不等于从此建立了一个不会再发生危险的世界。",
+        "startMs": 44260,
+        "endMs": 48880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25",
+          "run-0-c26"
+        ]
+      }
+    ],
+    "narration-what-explains-outcome": [
+      {
+        "text": "回头看，究竟是什么让双方退了回来？",
+        "startMs": 80,
+        "endMs": 2980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1",
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "军事压力让古巴导弹不能继续搁置，暂不攻击又给谈判留下了时间。",
+        "startMs": 3520,
+        "endMs": 9460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3",
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "不入侵保证回应了古巴的安全问题，",
+        "startMs": 9780,
+        "endMs": 11840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5",
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "秘密处理土耳其导弹，让苏方能够接受退路。",
+        "startMs": 11980,
+        "endMs": 14840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "此后，拆除、运输与核查，又把政治承诺变成了实际变化。",
+        "startMs": 15120,
+        "endMs": 20240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8",
+          "run-0-c9",
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "这些因素相互影响，很难把结局归给某一个人的强硬，或某一封信的巧妙。",
+        "startMs": 20820,
+        "endMs": 26600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11",
+          "run-0-c12",
+          "run-0-c13",
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "安德森的死亡和潜艇的遭遇，还提醒我们：",
+        "startMs": 27200,
+        "endMs": 29800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15",
+          "run-0-c16",
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "领导人正在谈判，现场仍可能把他们推向更危险的方向。",
+        "startMs": 30280,
+        "endMs": 34700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18",
+          "run-0-c19",
+          "run-0-c20"
+        ]
+      },
+      {
+        "text": "理解这场危机，可以始终追问：",
+        "startMs": 35280,
+        "endMs": 37480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c21",
+          "run-0-c22",
+          "run-0-c23"
+        ]
+      },
+      {
+        "text": "各方害怕失去什么，他们当时知道多少，",
+        "startMs": 37820,
+        "endMs": 40680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c24",
+          "run-0-c25"
+        ]
+      },
+      {
+        "text": "对手会怎样理解自己的行动，",
+        "startMs": 41020,
+        "endMs": 42700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c26",
+          "run-0-c27"
+        ]
+      },
+      {
+        "text": "又有没有一条能说明、兑现并核查的退路？",
+        "startMs": 43160,
+        "endMs": 46480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c28",
+          "run-0-c29"
+        ]
+      },
+      {
+        "text": "这段历史既让我们看到，政治选择能够阻止升级，",
+        "startMs": 46840,
+        "endMs": 50600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c30"
+        ]
+      },
+      {
+        "text": "也让我们看到，任何人对危险的控制都远非无所不能。",
+        "startMs": 51020,
+        "endMs": 55100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c31",
+          "run-0-c32",
+          "run-0-c33"
+        ]
+      }
+    ]
+  }
+}

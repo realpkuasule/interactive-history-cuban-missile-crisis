@@ -1,0 +1,227 @@
+[
+  {
+    "id": "jfk22",
+    "title": "肯尼迪总统图书馆：10月22日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct22/",
+    "status": "read",
+    "locator": "当日日程及19时电视讲话",
+    "reviewScope": "读页面文字，核阅公开讲话与海上隔离宣布；未听音频，未逐页读全部扫描件。 本轮继承记录；新增论断另列来源，不将原核阅范围扩称全面核验。",
+    "accessedOn": "2026-10-10"
+  },
+  {
+    "id": "jfk26",
+    "title": "肯尼迪总统图书馆：10月26日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct26/",
+    "status": "read",
+    "locator": "John Scali及Khrushchev来信段落",
+    "reviewScope": "读页面文字，核阅间接接触与来信交换提议；未将美方记述视为所有参与者完整观点。 本轮继承记录；新增论断另列来源，不将原核阅范围扩称全面核验。",
+    "accessedOn": "2026-10-10"
+  },
+  {
+    "id": "state",
+    "title": "美国国务院历史办公室：1962年古巴导弹危机",
+    "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+    "status": "read",
+    "locator": "全文：部署背景、10月14日至11月20日及次年4月",
+    "reviewScope": "本次读全文机构综述，核阅部署背景、公开与秘密安排及后续日期。该专题已停止维护；未替代苏联、古巴、土耳其等多国档案核验。 本轮继承记录；新增论断另列来源，不将原核阅范围扩称全面核验。",
+    "accessedOn": "2026-10-10"
+  },
+  {
+    "id": "jfk16",
+    "title": "肯尼迪总统图书馆：10月16日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct16/",
+    "status": "read",
+    "locator": "当日文字及首批图像说明",
+    "reviewScope": "已读全页文字，确认肯尼迪当晨听取U-2发现简报及两类选择；未听会议录音、未逐张核定地图。 本轮继承记录；新增论断另列来源，不将原核阅范围扩称全面核验。",
+    "accessedOn": "2026-10-10"
+  },
+  {
+    "id": "letter22",
+    "title": "肯尼迪致赫鲁晓夫信，1962年10月22日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct22/doc4.html",
+    "status": "read",
+    "locator": "全文",
+    "reviewScope": "已读网页全文，核阅安全诉求、误判担忧与继续谈判的表述；作为美方当事人陈述，不当成中立评价。 本轮继承记录；新增论断另列来源，不将原核阅范围扩称全面核验。",
+    "accessedOn": "2026-10-10"
+  },
+  {
+    "id": "letter26",
+    "title": "美国使馆译转赫鲁晓夫信，1962年10月26日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct26/doc4.html",
+    "status": "read",
+    "locator": "译转说明与全文",
+    "reviewScope": "已读美使馆英文译转全文，区分苏方防御性自述、入侵担忧与交换建议；未核对俄文原件或全部译文差异。 本轮继承记录；新增论断另列来源，不将原核阅范围扩称全面核验。",
+    "accessedOn": "2026-10-10"
+  },
+  {
+    "id": "excomm-photo",
+    "title": "JFK Library：10月29日ExComm会议档案",
+    "url": "https://www.jfklibrary.org/asset-viewer/archives/jfkwhp-1962-10-29-a",
+    "status": "read",
+    "locator": "About Folder / Date(s) / Preferred Citation",
+    "reviewScope": "已读会议日期、White House Photographs馆藏与摄影者；具体图像ST-A26-25-62见媒体记录，未听当日会议。 本轮继承记录；新增论断另列来源，不将原核阅范围扩称全面核验。",
+    "accessedOn": "2026-10-10"
+  },
+  {
+    "id": "baypigs",
+    "title": "美国国务院历史办公室：猪湾入侵及后续行动",
+    "url": "https://history.state.gov/milestones/1961-1968/bay-of-pigs",
+    "status": "read",
+    "locator": "1959年革命、1961年4月入侵及Operation Mongoose段落",
+    "reviewScope": "已读机构综述全文；采用行动背景，不把秘密行动计划等同于已经作出的入侵决定。专题已停止维护。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "photo-nara",
+    "title": "美国国家档案馆：1962年10月14日导弹航拍图",
+    "url": "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba",
+    "status": "read",
+    "locator": "PX1966-020-007、10/14/1962；摄影、分析及公开说明",
+    "reviewScope": "已读馆藏说明与正文；核对照片身份和发现过程，不自行从图像推定核弹头数量或部署完成程度。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "jfk20",
+    "title": "肯尼迪总统图书馆：1962年10月20日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct20/",
+    "status": "read",
+    "locator": "正文首段",
+    "reviewScope": "已读网页文字，核阅隔离方案决定与部署准备；未听网页会议录音，不把日程综述当逐字会议记录。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "jfk24",
+    "title": "肯尼迪总统图书馆：1962年10月24日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct24/",
+    "status": "read",
+    "locator": "正文与赫鲁晓夫回信摘要",
+    "reviewScope": "已读网页文字，核阅对封锁的苏方反应；未听网页会议录音，不把日程综述当逐字会议记录。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "jfk25",
+    "title": "肯尼迪总统图书馆：1962年10月25日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct25/",
+    "status": "read",
+    "locator": "正文两段",
+    "reviewScope": "已读网页文字，核阅货轮放行、联合国展示证据及吴丹建议；未听网页会议录音，不把日程综述当逐字会议记录。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "jfk27",
+    "title": "肯尼迪总统图书馆：1962年10月27日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct27/",
+    "status": "read",
+    "locator": "正文全页",
+    "reviewScope": "已读网页文字，核阅U-2被击落、肯尼迪未立即报复及两条解决渠道；未听网页会议录音，不把日程综述当逐字会议记录。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "jfk28",
+    "title": "肯尼迪总统图书馆：1962年10月28日",
+    "url": "https://microsites.jfklibrary.org/cmc/oct28/",
+    "status": "read",
+    "locator": "正文全页",
+    "reviewScope": "已读网页文字，核阅莫斯科广播撤弹声明及执行委员会谨慎回应；未听网页会议录音，不把日程综述当逐字会议记录。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "frus91",
+    "title": "赫鲁晓夫致肯尼迪公开信，1962年10月27日",
+    "url": "https://history.state.gov/historicaldocuments/frus1961-63v11/d91",
+    "status": "read",
+    "locator": "FRUS XI，文件91，印刷页257—260",
+    "reviewScope": "已读官方英文译文与编者来源注，重点为土耳其交换、古巴/土耳其同意检查及安全承诺；未核对俄文原件。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "frus95",
+    "title": "肯尼迪致赫鲁晓夫回复，1962年10月27日",
+    "url": "https://history.state.gov/historicaldocuments/frus1961-63v11/d95",
+    "status": "read",
+    "locator": "FRUS XI，文件95，印刷页268—269，第1—2项",
+    "reviewScope": "已读国务院传递电报全文；核对武器撤除、核查、解除隔离与不入侵保证之间的条件，区分建议与实际完成。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "castro26",
+    "title": "卡斯特罗致赫鲁晓夫信，1962年10月26日",
+    "url": "https://nsarchive2.gwu.edu/nsa/cuba_mis_cri/621026%20Castro%20Letter%20to%20Khrushchev.pdf",
+    "status": "read",
+    "locator": "信件译文全文：24—72小时预期、空袭与入侵两种情况",
+    "reviewScope": "研究员实际读取档案机构收录的英文译文；核武意见具有美国入侵古巴的条件；未校对西班牙语原件。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "alekseev",
+    "title": "苏联驻古大使阿列克谢耶夫电报：古巴对危机及撤弹的反应",
+    "url": "https://www.wilsoncenter.org/sites/default/files/media/documents/publication/CWHIP_Bulletin_17-18_Cuban_Missile_Crisis_v2_s3_Soviet_Union.pdf",
+    "status": "read",
+    "locator": "CWIHP Bulletin 17/18 苏联档案部分，PDF页26—29；10月27日及11月2日电报",
+    "reviewScope": "研究员实际读取选定电报的英文译文与介绍；这是苏方大使所报，不等同于古巴政府自己的完整记录或古巴全体民意。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "rfk96",
+    "title": "罗伯特·肯尼迪关于10月27日会谈的备忘录，写于10月30日",
+    "url": "https://history.state.gov/historicaldocuments/frus1961-63v11/d96",
+    "status": "read",
+    "locator": "FRUS XI，文件96，印刷页270—272；土耳其与被删句脚注",
+    "reviewScope": "研究员已读正文与编注；保留美方不公开交易的措辞，以及四五个月撤除说法被删的稿件事实，不只引用事后回忆录。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "khrush70",
+    "title": "赫鲁晓夫致肯尼迪私信，1962年10月28日",
+    "url": "https://history.state.gov/historicaldocuments/frus1961-63v06/d70",
+    "status": "read",
+    "locator": "FRUS VI，文件70；多勃雷宁转达与四五个月期限段",
+    "reviewScope": "研究员已读官方英文译文及来源注；用于与RFK备忘录互证秘密沟通，不等同于公开条约。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "b59",
+    "title": "苏联潜艇与核鱼雷：同期报告、阿尔希波夫和奥尔洛夫回忆",
+    "url": "https://nsarchive.gwu.edu/briefing-book/russia-programs/2022-10-03/soviet-submarines-nuclear-torpedoes-cuban-missile-crisis",
+    "status": "read",
+    "locator": "2022年档案汇编：约1962年12月舰队报告、1997年Arkhipov陈述、2002年Orlov回忆",
+    "reviewScope": "研究员实际读汇编及相关原件；同期报告支持各艇载核鱼雷与搜索/浮出，未记发射争议；准备核鱼雷细节主要依事后回忆，编者也注明争议。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "signals377",
+    "title": "美国国防部潜艇浮出识别程序，1962年10月24日",
+    "url": "https://history.state.gov/historicaldocuments/frus1961-63v10-12mSupp/d377",
+    "status": "read",
+    "locator": "FRUS补编，文件377；4—5枚无害爆炸声信号条款",
+    "reviewScope": "研究员已读当时行动规则；证明规则设计，不当成10月27日B-59接触经过的逐发记录。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "execution251",
+    "title": "美国国务院关于危机后安排的电报，1962年12月17日",
+    "url": "https://history.state.gov/historicaldocuments/frus1961-63v11/d251",
+    "status": "read",
+    "locator": "FRUS XI，文件251，撤除、11月20日及核查段落",
+    "reviewScope": "研究员已读电报草案正文；核对美方记录的海上核查、解除隔离及古巴境内检查未落实，区分美方表述与独立现场核验。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "hotline",
+    "title": "美苏直接通信链路谅解备忘录，1963年6月20日",
+    "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%20472/v472.pdf",
+    "status": "read",
+    "locator": "UNTS 472，No.6839，印刷页163—167（PDF页172—176），正文与附件",
+    "reviewScope": "研究员实际读取协议英文正文与技术附件；签署及生效日期、紧急通信目的和电传/电报通道；未将其描写为两位领袖直接拨号电话。",
+    "accessedOn": "2026-10-11"
+  },
+  {
+    "id": "ltbt",
+    "title": "美国国务院历史办公室：1963年有限禁止核试验条约",
+    "url": "https://history.state.gov/milestones/1961-1968/limited-ban",
+    "status": "read",
+    "locator": "1958年以来谈判、核查分歧与1963年条约范围段落",
+    "reviewScope": "已读全文机构综述；区分危机推动与此前谈判背景，核对大气层、外空、水下禁试及未包括地下试验。专题已停止维护。",
+    "accessedOn": "2026-10-11"
+  }
+]

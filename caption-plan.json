@@ -1,0 +1,4123 @@
+{
+  "schemaVersion": "1.0",
+  "defaultVisible": true,
+  "placement": "canvas",
+  "fps": 30,
+  "cues": [
+    {
+      "id": "narration-cuba-before-crisis-caption-0",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-1",
+      "text": "1962年，为什么一座加勒比海岛屿，会把美苏推到核战争边缘？",
+      "startFrame": 8,
+      "endFrame": 164,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2-p1",
+        "run-0-c2-p2"
+      ],
+      "observedRange": {
+        "startFrame": 8,
+        "endFrame": 152
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-1",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-1",
+      "text": "要理解这场危机，得先看看古巴人此前经历了什么。",
+      "startFrame": 164,
+      "endFrame": 282,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 164,
+        "endFrame": 270
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-2",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-1",
+      "text": "1959年，卡斯特罗领导的新政权取代巴蒂斯塔政府。",
+      "startFrame": 282,
+      "endFrame": 411,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 282,
+        "endFrame": 405
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-3",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-1",
+      "text": "古巴随后接收美国在岛上的经济资产，又逐渐靠近苏联。",
+      "startFrame": 411,
+      "endFrame": 555,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9",
+        "run-0-c10",
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 411,
+        "endFrame": 542
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-4",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-1",
+      "text": "华盛顿担心社会主义阵营来到家门口，哈瓦那担心的却是美国会不会推翻自己。",
+      "startFrame": 555,
+      "endFrame": 731,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12",
+        "run-0-c13",
+        "run-0-c14",
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 555,
+        "endFrame": 717
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-5",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-2",
+      "text": "1961年4月17日，美国中央情报局训练、资助的古巴流亡者部队在猪湾登陆，",
+      "startFrame": 731,
+      "endFrame": 915,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16",
+        "run-0-c17",
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 731,
+        "endFrame": 904
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-6",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-2",
+      "text": "大约两天后失败。美国此后仍推动代号“猫鼬”的秘密行动，企图推翻卡斯特罗。",
+      "startFrame": 915,
+      "endFrame": 1094,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19",
+        "run-0-c20",
+        "run-0-c21",
+        "run-0-c22"
+      ],
+      "observedRange": {
+        "startFrame": 915,
+        "endFrame": 1085
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-7",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-3",
+      "text": "对古巴领导人来说，再次入侵并不是遥远的想象。",
+      "startFrame": 1094,
+      "endFrame": 1226,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c23",
+        "run-0-c24",
+        "run-0-c25"
+      ],
+      "observedRange": {
+        "startFrame": 1094,
+        "endFrame": 1205
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-8",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-3",
+      "text": "不过，害怕入侵，不等于知道美国已经决定哪一天动手。",
+      "startFrame": 1226,
+      "endFrame": 1362,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c26",
+        "run-0-c27"
+      ],
+      "observedRange": {
+        "startFrame": 1226,
+        "endFrame": 1356
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-cuba-before-crisis-caption-9",
+      "nodeId": "cuba-before-crisis",
+      "shotId": "cuba-before-crisis-beat-3",
+      "text": "正是在这种威胁和不确定中，古巴与苏联作出了下一步选择。",
+      "startFrame": 1362,
+      "endFrame": 1523,
+      "trackId": "narration-cuba-before-crisis",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c28",
+        "run-0-c29",
+        "run-0-c30"
+      ],
+      "observedRange": {
+        "startFrame": 1362,
+        "endFrame": 1499
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-0",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-1",
+      "text": "1962年夏，赫鲁晓夫与古巴方面秘密商定，把苏联核导弹部署到岛上。",
+      "startFrame": 1532,
+      "endFrame": 1732,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 1532,
+        "endFrame": 1700
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-1",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-1",
+      "text": "古巴希望让美国明白：再次入侵，会付出难以承受的代价。",
+      "startFrame": 1732,
+      "endFrame": 1871,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 1732,
+        "endFrame": 1861
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-2",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-1",
+      "text": "赫鲁晓夫也在信中强调古巴的防御，并反问，",
+      "startFrame": 1871,
+      "endFrame": 1980,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7",
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 1871,
+        "endFrame": 1967
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-3",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-1",
+      "text": "美国可以把基地和导弹放在苏联周边，苏联为什么不能援助自己的盟友？",
+      "startFrame": 1980,
+      "endFrame": 2135,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10",
+        "run-0-c11",
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 1980,
+        "endFrame": 2120
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-4",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-2",
+      "text": "但站在美国政府的角度，能够从邻近岛屿打击美国的核导弹，",
+      "startFrame": 2135,
+      "endFrame": 2273,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13",
+        "run-0-c14",
+        "run-0-c15",
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 2135,
+        "endFrame": 2261
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-5",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-2",
+      "text": "又是在秘密中运来的，显然构成了新的威胁。",
+      "startFrame": 2273,
+      "endFrame": 2400,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17",
+        "run-0-c18",
+        "run-0-c19"
+      ],
+      "observedRange": {
+        "startFrame": 2273,
+        "endFrame": 2390
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-6",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-2",
+      "text": "同一批武器，在一方眼中是保障安全，在另一方眼中却让自己更加不安全。",
+      "startFrame": 2400,
+      "endFrame": 2615,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c20",
+        "run-0-c21",
+        "run-0-c22"
+      ],
+      "observedRange": {
+        "startFrame": 2400,
+        "endFrame": 2602
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-7",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-3",
+      "text": "与此同时，古巴同意部署，并不意味着卡斯特罗可以决定苏联核武器怎样使用；",
+      "startFrame": 2615,
+      "endFrame": 2789,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c23",
+        "run-0-c24",
+        "run-0-c25-p1",
+        "run-0-c25-p2"
+      ],
+      "observedRange": {
+        "startFrame": 2615,
+        "endFrame": 2779
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-8",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-3",
+      "text": "苏联以后怎样谈撤除，也未必会让古巴满意。",
+      "startFrame": 2789,
+      "endFrame": 2900,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c26"
+      ],
+      "observedRange": {
+        "startFrame": 2789,
+        "endFrame": 2891
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-deployment-and-security-caption-9",
+      "nodeId": "deployment-and-security",
+      "shotId": "deployment-and-security-beat-3",
+      "text": "这场危机从一开始，就不只有两个大国的意志。",
+      "startFrame": 2900,
+      "endFrame": 3018,
+      "trackId": "narration-deployment-and-security",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c27",
+        "run-0-c28"
+      ],
+      "observedRange": {
+        "startFrame": 2900,
+        "endFrame": 2995
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-0",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-1",
+      "text": "秘密部署终于被发现。10月14日，",
+      "startFrame": 3022,
+      "endFrame": 3129,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 3022,
+        "endFrame": 3120
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-1",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-1",
+      "text": "美国U-2侦察机拍到了圣克里斯托瓦尔一带的导弹设施。",
+      "startFrame": 3129,
+      "endFrame": 3270,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 3129,
+        "endFrame": 3258
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-2",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-1",
+      "text": "照片还要经过处理和专业判读，消息才能进入总统的决策。",
+      "startFrame": 3270,
+      "endFrame": 3411,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 3270,
+        "endFrame": 3400
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-3",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-1",
+      "text": "肯尼迪是在10月16日早晨听取简报的。",
+      "startFrame": 3411,
+      "endFrame": 3507,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 3411,
+        "endFrame": 3497
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-4",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-1",
+      "text": "后来人们常说的“十三天”，就是从16日算到28日。",
+      "startFrame": 3507,
+      "endFrame": 3633,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9",
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 3507,
+        "endFrame": 3615
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-5",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-2",
+      "text": "对肯尼迪来说，照片让怀疑变成了必须处理的具体问题，",
+      "startFrame": 3633,
+      "endFrame": 3771,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11",
+        "run-0-c12",
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 3633,
+        "endFrame": 3756
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-6",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-2",
+      "text": "却没有让所有疑问消失：发射场什么时候能用？还有多少武器没有发现？",
+      "startFrame": 3771,
+      "endFrame": 3942,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14",
+        "run-0-c15",
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 3771,
+        "endFrame": 3934
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-7",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-2",
+      "text": "如果下令攻击，能不能一次清除全部威胁？",
+      "startFrame": 3942,
+      "endFrame": 4063,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17",
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 3942,
+        "endFrame": 4048
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-8",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-2",
+      "text": "看见设施，并不等于掌握全部核弹头的位置，",
+      "startFrame": 4063,
+      "endFrame": 4173,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19",
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 4063,
+        "endFrame": 4163
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-9",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-2",
+      "text": "更不等于知道莫斯科接下来会怎么做。",
+      "startFrame": 4173,
+      "endFrame": 4260,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c21"
+      ],
+      "observedRange": {
+        "startFrame": 4173,
+        "endFrame": 4255
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-discovery-14-caption-10",
+      "nodeId": "discovery-14",
+      "shotId": "discovery-14-beat-3",
+      "text": "总统和顾问们必须在信息不完整的情况下，决定美国如何回应。",
+      "startFrame": 4260,
+      "endFrame": 4413,
+      "trackId": "narration-discovery-14",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 4260,
+        "endFrame": 4391
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-0",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-1",
+      "text": "从16日起，肯尼迪与核心顾问反复讨论。",
+      "startFrame": 4416,
+      "endFrame": 4527,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 4416,
+        "endFrame": 4515
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-1",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-1",
+      "text": "一个办法是空袭导弹设施，必要时进一步入侵。",
+      "startFrame": 4527,
+      "endFrame": 4672,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 4527,
+        "endFrame": 4664
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-2",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-1",
+      "text": "另一个办法，是先实行海上隔离，阻止新的进攻性装备进入，同时继续交涉。",
+      "startFrame": 4672,
+      "endFrame": 4902,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 4672,
+        "endFrame": 4890
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-3",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-2",
+      "text": "空袭看起来直接，但谁也不能轻易保证所有目标都能摧毁。",
+      "startFrame": 4902,
+      "endFrame": 5042,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10",
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 4902,
+        "endFrame": 5024
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-4",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-2",
+      "text": "如果苏联人员大量伤亡，莫斯科又会在哪里、以什么方式还击？",
+      "startFrame": 5042,
+      "endFrame": 5201,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12",
+        "run-0-c13",
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 5042,
+        "endFrame": 5183
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-5",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-2",
+      "text": "入侵会把这些风险进一步放大。海上隔离也有明显弱点：",
+      "startFrame": 5201,
+      "endFrame": 5340,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15",
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 5201,
+        "endFrame": 5328
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-6",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-2",
+      "text": "它挡不住已经在岛上的导弹，却能让美国分步施压，给下一轮决定留出时间。",
+      "startFrame": 5340,
+      "endFrame": 5513,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19",
+        "run-0-c20",
+        "run-0-c21"
+      ],
+      "observedRange": {
+        "startFrame": 5340,
+        "endFrame": 5496
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-7",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-3",
+      "text": "10月20日，肯尼迪选择了隔离。这个决定并没有终止军事准备，",
+      "startFrame": 5513,
+      "endFrame": 5666,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c22",
+        "run-0-c23",
+        "run-0-c24"
+      ],
+      "observedRange": {
+        "startFrame": 5513,
+        "endFrame": 5657
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-8",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-3",
+      "text": "也没有保证外交一定成功。顾问们此前已经讨论了好几天，",
+      "startFrame": 5666,
+      "endFrame": 5810,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c25",
+        "run-0-c26"
+      ],
+      "observedRange": {
+        "startFrame": 5666,
+        "endFrame": 5802
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-9",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-3",
+      "text": "正式的执行委员会到22日才成立。",
+      "startFrame": 5810,
+      "endFrame": 5905,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c27",
+        "run-0-c28"
+      ],
+      "observedRange": {
+        "startFrame": 5810,
+        "endFrame": 5887
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-choices-16-20-caption-10",
+      "nodeId": "choices-16-20",
+      "shotId": "choices-16-20-beat-3",
+      "text": "真正关键的，是总统暂时没有把自己锁进立即开战的道路。",
+      "startFrame": 5905,
+      "endFrame": 6084,
+      "trackId": "narration-choices-16-20",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c29",
+        "run-0-c30",
+        "run-0-c31",
+        "run-0-c32"
+      ],
+      "observedRange": {
+        "startFrame": 5905,
+        "endFrame": 6060
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-0",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-1",
+      "text": "10月22日晚7时，肯尼迪走到电视镜头前，",
+      "startFrame": 6089,
+      "endFrame": 6203,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 6089,
+        "endFrame": 6196
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-1",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-1",
+      "text": "向公众公布苏联在古巴部署导弹的情况，要求撤除，并宣布海上隔离。",
+      "startFrame": 6203,
+      "endFrame": 6402,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 6203,
+        "endFrame": 6395
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-2",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-1",
+      "text": "美国民众此时才知道的事，白宫已经秘密讨论了近一周。",
+      "startFrame": 6402,
+      "endFrame": 6516,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7",
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 6402,
+        "endFrame": 6508
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-3",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-1",
+      "text": "讲话把政府的要求变成公开承诺，也把压力传给苏联、盟友和国内社会。",
+      "startFrame": 6516,
+      "endFrame": 6693,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10",
+        "run-0-c11",
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 6516,
+        "endFrame": 6682
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-4",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-2",
+      "text": "同一天，肯尼迪还致信赫鲁晓夫，要求移除威胁，同时表达一个判断：",
+      "startFrame": 6693,
+      "endFrame": 6854,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13",
+        "run-0-c14",
+        "run-0-c15",
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 6693,
+        "endFrame": 6844
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-5",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-2",
+      "text": "对方不会有意把世界拖进谁都无法获胜的战争。",
+      "startFrame": 6854,
+      "endFrame": 6960,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17",
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 6854,
+        "endFrame": 6948
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-6",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-2",
+      "text": "强硬要求与防止误判，就这样放在同一次沟通里。",
+      "startFrame": 6960,
+      "endFrame": 7097,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19",
+        "run-0-c20",
+        "run-0-c21"
+      ],
+      "observedRange": {
+        "startFrame": 6960,
+        "endFrame": 7086
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-7",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-3",
+      "text": "公开表态能争取支持，却也会让改变政策更加困难。",
+      "startFrame": 7097,
+      "endFrame": 7251,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 7097,
+        "endFrame": 7235
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-8",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-3",
+      "text": "因此，领导人在公开立场之外，还需要能试探退路的私下渠道。",
+      "startFrame": 7251,
+      "endFrame": 7408,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25",
+        "run-0-c26",
+        "run-0-c27"
+      ],
+      "observedRange": {
+        "startFrame": 7251,
+        "endFrame": 7397
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-signal-22-caption-9",
+      "nodeId": "signal-22",
+      "shotId": "signal-22-beat-3",
+      "text": "接下来，海上的实际接触会检验这些话究竟意味着什么。",
+      "startFrame": 7408,
+      "endFrame": 7555,
+      "trackId": "narration-signal-22",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c28",
+        "run-0-c29",
+        "run-0-c30",
+        "run-0-c31"
+      ],
+      "observedRange": {
+        "startFrame": 7408,
+        "endFrame": 7533
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-0",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-1",
+      "text": "美国把海上行动称为“隔离”，用这个词区别于通常意味着战争状态的“封锁”，",
+      "startFrame": 7558,
+      "endFrame": 7731,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 7558,
+        "endFrame": 7722
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-1",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-1",
+      "text": "也争取法律和地区支持。但苏联并不接受这套解释，",
+      "startFrame": 7731,
+      "endFrame": 7876,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 7731,
+        "endFrame": 7860
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-2",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-1",
+      "text": "赫鲁晓夫仍把行动视为胁迫和侵略。",
+      "startFrame": 7876,
+      "endFrame": 7968,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 7876,
+        "endFrame": 7959
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-3",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-2",
+      "text": "隔离从24日开始，针对的是运往古巴的进攻性军事装备，",
+      "startFrame": 7968,
+      "endFrame": 8124,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8",
+        "run-0-c9",
+        "run-0-c10",
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 7968,
+        "endFrame": 8110
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-4",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-2",
+      "text": "并非禁止一切民用航运。一些苏联货船转向，",
+      "startFrame": 8124,
+      "endFrame": 8236,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12",
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 8124,
+        "endFrame": 8225
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-5",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-2",
+      "text": "一些经过检查，或者被认定没有运送违禁装备后，继续航行。",
+      "startFrame": 8236,
+      "endFrame": 8374,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14-p1",
+        "run-0-c14-p2"
+      ],
+      "observedRange": {
+        "startFrame": 8236,
+        "endFrame": 8364
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-6",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-2",
+      "text": "25日，运送石油的“布加勒斯特”号就获准通过。",
+      "startFrame": 8374,
+      "endFrame": 8503,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15",
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 8374,
+        "endFrame": 8497
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-7",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-3",
+      "text": "船只转向给了双方一点喘息空间，却没有解决岛上的问题：",
+      "startFrame": 8503,
+      "endFrame": 8649,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19",
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 8503,
+        "endFrame": 8635
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-8",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-3",
+      "text": "已有的导弹设施仍在推进，海空部队也越来越接近。",
+      "startFrame": 8649,
+      "endFrame": 8772,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c21",
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 8649,
+        "endFrame": 8760
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-9",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-3",
+      "text": "美国希望用压力换来撤弹，苏方却可能把持续施压理解为攻击的前奏。",
+      "startFrame": 8772,
+      "endFrame": 8950,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25",
+        "run-0-c26"
+      ],
+      "observedRange": {
+        "startFrame": 8772,
+        "endFrame": 8928
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-quarantine-24-caption-10",
+      "nodeId": "quarantine-24",
+      "shotId": "quarantine-24-beat-3",
+      "text": "谈判多得到一天，危险并不一定少一天。",
+      "startFrame": 8950,
+      "endFrame": 9073,
+      "trackId": "narration-quarantine-24",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c27",
+        "run-0-c28"
+      ],
+      "observedRange": {
+        "startFrame": 8950,
+        "endFrame": 9048
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-0",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-1",
+      "text": "25日，对抗也来到联合国。美国驻联合国代表史蒂文森在安理会展示侦察照片，",
+      "startFrame": 9077,
+      "endFrame": 9283,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3-p1",
+        "run-0-c3-p2"
+      ],
+      "observedRange": {
+        "startFrame": 9077,
+        "endFrame": 9269
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-1",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-1",
+      "text": "质问苏联代表佐林。此前在秘密会议里讨论的图像，现在成了争取国际支持的证据。",
+      "startFrame": 9283,
+      "endFrame": 9487,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 9283,
+        "endFrame": 9474
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-2",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-2",
+      "text": "联合国代理秘书长吴丹则尝试让双方缓和接触，给谈判争取时间。",
+      "startFrame": 9487,
+      "endFrame": 9640,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9",
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 9487,
+        "endFrame": 9626
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-3",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-2",
+      "text": "但暂缓行动，对美国也有风险：导弹可能继续留在岛上，甚至继续完成部署。",
+      "startFrame": 9640,
+      "endFrame": 9828,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11",
+        "run-0-c12",
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 9640,
+        "endFrame": 9814
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-4",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-2",
+      "text": "对苏联来说，怎样保住古巴，又怎样让美国接受撤退条件，同样没有现成答案。",
+      "startFrame": 9828,
+      "endFrame": 10009,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14",
+        "run-0-c15",
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 9828,
+        "endFrame": 9993
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-5",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-3",
+      "text": "联合国提供了沟通与讨论核查的场所，却不能代替各方作出承诺。",
+      "startFrame": 10009,
+      "endFrame": 10181,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19",
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 10009,
+        "endFrame": 10167
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-6",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-3",
+      "text": "照片可以证明某些设施存在，但谁来检查，怎么确认撤走，",
+      "startFrame": 10181,
+      "endFrame": 10342,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c21",
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 10181,
+        "endFrame": 10329
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-7",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-3",
+      "text": "有关国家是否同意，都还需要谈。",
+      "startFrame": 10342,
+      "endFrame": 10435,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25"
+      ],
+      "observedRange": {
+        "startFrame": 10342,
+        "endFrame": 10413
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-un-25-caption-8",
+      "nodeId": "un-25",
+      "shotId": "un-25-beat-3",
+      "text": "就在公开对抗持续的时候，另一条可能的退路出现了。",
+      "startFrame": 10435,
+      "endFrame": 10571,
+      "trackId": "narration-un-25",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c26",
+        "run-0-c27",
+        "run-0-c28",
+        "run-0-c29"
+      ],
+      "observedRange": {
+        "startFrame": 10435,
+        "endFrame": 10544
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-0",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-1",
+      "text": "26日，记者约翰·斯卡利接到苏联使馆人员福明传来的方案。",
+      "startFrame": 10579,
+      "endFrame": 10724,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 10579,
+        "endFrame": 10712
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-1",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-1",
+      "text": "同一天，赫鲁晓夫的长信也抵达华盛顿。",
+      "startFrame": 10724,
+      "endFrame": 10829,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 10724,
+        "endFrame": 10819
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-2",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-2",
+      "text": "两条渠道指向相近的方向：如果美国保证不入侵古巴，",
+      "startFrame": 10829,
+      "endFrame": 10946,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7",
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 10829,
+        "endFrame": 10945
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-3",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-2",
+      "text": "撤除有关武器就有了谈判基础。赫鲁晓夫在信中反复谈到战争失控的危险。",
+      "startFrame": 10946,
+      "endFrame": 11117,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10",
+        "run-0-c11",
+        "run-0-c12",
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 10946,
+        "endFrame": 11111
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-4",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-2",
+      "text": "他强调，苏联援古是为了防御；如果古巴不再遭受攻击的威胁，",
+      "startFrame": 11117,
+      "endFrame": 11275,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14",
+        "run-0-c15",
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 11117,
+        "endFrame": 11266
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-5",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-2",
+      "text": "部署武器的需要也会改变。这还不是协议，",
+      "startFrame": 11275,
+      "endFrame": 11396,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17",
+        "run-0-c18",
+        "run-0-c19"
+      ],
+      "observedRange": {
+        "startFrame": 11275,
+        "endFrame": 11384
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-6",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-2",
+      "text": "但双方终于能够讨论一种交换承诺、共同后退的可能。",
+      "startFrame": 11396,
+      "endFrame": 11524,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c20",
+        "run-0-c21",
+        "run-0-c22"
+      ],
+      "observedRange": {
+        "startFrame": 11396,
+        "endFrame": 11516
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-7",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-3",
+      "text": "华盛顿仍然要判断，中间人的传话有没有充分授权，",
+      "startFrame": 11524,
+      "endFrame": 11637,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c23",
+        "run-0-c24"
+      ],
+      "observedRange": {
+        "startFrame": 11524,
+        "endFrame": 11631
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-8",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-3",
+      "text": "正式来信又能落实到什么程度。相近的消息，也不能直接当成同一条指挥链的产物。",
+      "startFrame": 11637,
+      "endFrame": 11834,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c25",
+        "run-0-c26",
+        "run-0-c27",
+        "run-0-c28"
+      ],
+      "observedRange": {
+        "startFrame": 11637,
+        "endFrame": 11825
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-proposal-26-caption-9",
+      "nodeId": "proposal-26",
+      "shotId": "proposal-26-beat-3",
+      "text": "更紧迫的是，外交的窗口打开了，军事行动却没有停下来。",
+      "startFrame": 11834,
+      "endFrame": 12001,
+      "trackId": "narration-proposal-26",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c29",
+        "run-0-c30",
+        "run-0-c31",
+        "run-0-c32",
+        "run-0-c33"
+      ],
+      "observedRange": {
+        "startFrame": 11834,
+        "endFrame": 11979
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-0",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-1",
+      "text": "同样在26日，卡斯特罗给赫鲁晓夫写信。",
+      "startFrame": 12009,
+      "endFrame": 12121,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 12009,
+        "endFrame": 12108
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-1",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-1",
+      "text": "他判断，美国可能在未来24到72小时内采取行动，可能是空袭，",
+      "startFrame": 12121,
+      "endFrame": 12292,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4-p1",
+        "run-0-c4-p2",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 12121,
+        "endFrame": 12286
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-2",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-1",
+      "text": "也可能是入侵。古巴的恐惧，和白宫讨论怎样避免失控的心情，并不相同。",
+      "startFrame": 12292,
+      "endFrame": 12495,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 12292,
+        "endFrame": 12484
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-3",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-2",
+      "text": "卡斯特罗甚至在美国入侵古巴这一条件下，提出极端的核升级意见，",
+      "startFrame": 12495,
+      "endFrame": 12638,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10",
+        "run-0-c11",
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 12495,
+        "endFrame": 12625
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-4",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-2",
+      "text": "担心苏联如果被动等待，会失去反击机会。",
+      "startFrame": 12638,
+      "endFrame": 12749,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 12638,
+        "endFrame": 12738
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-5",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-2",
+      "text": "这个条件不能省略：信件不是一份美国已经批准入侵的情报，",
+      "startFrame": 12749,
+      "endFrame": 12867,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14",
+        "run-0-c15",
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 12749,
+        "endFrame": 12858
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-6",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-2",
+      "text": "也不能简单说成卡斯特罗要求苏联立刻核打击美国。",
+      "startFrame": 12867,
+      "endFrame": 12981,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17-p1",
+        "run-0-c17-p2"
+      ],
+      "observedRange": {
+        "startFrame": 12867,
+        "endFrame": 12975
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-7",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-3",
+      "text": "但它确实说明，对战争迫近的恐惧，可能把人推向会造成更大灾难的主张。",
+      "startFrame": 12981,
+      "endFrame": 13159,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19",
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 12981,
+        "endFrame": 13147
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-8",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-3",
+      "text": "苏联驻古大使27日的报告，也记录了卡斯特罗的判断。",
+      "startFrame": 13159,
+      "endFrame": 13291,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c21",
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 13159,
+        "endFrame": 13271
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-castro-warning-caption-9",
+      "nodeId": "castro-warning",
+      "shotId": "castro-warning-beat-3",
+      "text": "古巴有自己的意见，却没有与华盛顿、莫斯科共同掌握一个同步透明的决策过程。",
+      "startFrame": 13291,
+      "endFrame": 13487,
+      "trackId": "narration-castro-warning",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25",
+        "run-0-c26",
+        "run-0-c27",
+        "run-0-c28"
+      ],
+      "observedRange": {
+        "startFrame": 13291,
+        "endFrame": 13461
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-0",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-1",
+      "text": "27日，赫鲁晓夫又提出了一套更明确的条件：",
+      "startFrame": 13493,
+      "endFrame": 13612,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 13493,
+        "endFrame": 13597
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-1",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-1",
+      "text": "苏联撤除古巴的有关武器，美国也撤除土耳其的同类武器，并作出安全承诺。",
+      "startFrame": 13612,
+      "endFrame": 13817,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 13612,
+        "endFrame": 13805
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-2",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-1",
+      "text": "这与26日主要围绕不入侵古巴的来信，有了重要区别。",
+      "startFrame": 13817,
+      "endFrame": 13941,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9",
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 13817,
+        "endFrame": 13929
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-3",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-1",
+      "text": "赫鲁晓夫把美国对古巴的担忧，和苏联对土耳其的担忧放在一起，要求对称处理。",
+      "startFrame": 13941,
+      "endFrame": 14123,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11",
+        "run-0-c12",
+        "run-0-c13",
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 13941,
+        "endFrame": 14111
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-4",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-2",
+      "text": "但土耳其是美国的北约盟友，朱庇特导弹也不仅是一批军事装备。",
+      "startFrame": 14123,
+      "endFrame": 14286,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15",
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 14123,
+        "endFrame": 14276
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-5",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-2",
+      "text": "即使已有淘汰背景，在公开压力下宣布拿盟友境内的武器作交换，",
+      "startFrame": 14286,
+      "endFrame": 14421,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19",
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 14286,
+        "endFrame": 14412
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-6",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-2",
+      "text": "仍会影响盟友对美国承诺的信任。",
+      "startFrame": 14421,
+      "endFrame": 14497,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c21",
+        "run-0-c22"
+      ],
+      "observedRange": {
+        "startFrame": 14421,
+        "endFrame": 14489
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-7",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-3",
+      "text": "苏方提议还说，国际人员进入古巴和土耳其检查，需要两国政府同意。",
+      "startFrame": 14497,
+      "endFrame": 14667,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c23",
+        "run-0-c24-p1",
+        "run-0-c24-p2"
+      ],
+      "observedRange": {
+        "startFrame": 14497,
+        "endFrame": 14654
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-8",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-3",
+      "text": "于是，谈判不仅是两位领导人肯不肯让步，",
+      "startFrame": 14667,
+      "endFrame": 14759,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c25"
+      ],
+      "observedRange": {
+        "startFrame": 14667,
+        "endFrame": 14750
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-turkey-27-caption-9",
+      "nodeId": "turkey-27",
+      "shotId": "turkey-27-beat-3",
+      "text": "还涉及他们能怎样向盟友解释，以及别国是否接受执行办法。",
+      "startFrame": 14759,
+      "endFrame": 14911,
+      "trackId": "narration-turkey-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c26",
+        "run-0-c27"
+      ],
+      "observedRange": {
+        "startFrame": 14759,
+        "endFrame": 14888
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-0",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-1",
+      "text": "就在这些条件来回传递的时候，27日，",
+      "startFrame": 14922,
+      "endFrame": 15013,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 14922,
+        "endFrame": 15004
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-1",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-1",
+      "text": "一架美国U-2侦察机在古巴上空被地空导弹击落，飞行员鲁道夫·安德森少校死亡。",
+      "startFrame": 15013,
+      "endFrame": 15238,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 15013,
+        "endFrame": 15226
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-2",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-1",
+      "text": "此前的威胁和部署争议，已经变成了美国人员的实际死亡。",
+      "startFrame": 15238,
+      "endFrame": 15366,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7",
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 15238,
+        "endFrame": 15357
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-3",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-2",
+      "text": "立即打击导弹阵地的压力随之上升，",
+      "startFrame": 15366,
+      "endFrame": 15469,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10",
+        "run-0-c11",
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 15366,
+        "endFrame": 15459
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-4",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-2",
+      "text": "但肯尼迪没有马上批准报复，而是在执行委员会的讨论中抵制立即动武。",
+      "startFrame": 15469,
+      "endFrame": 15640,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13",
+        "run-0-c14",
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 15469,
+        "endFrame": 15626
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-5",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-2",
+      "text": "如果每一次攻击都自动触发下一轮攻击，谈判可能还没得出结果，就已经失去意义。",
+      "startFrame": 15640,
+      "endFrame": 15828,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 15640,
+        "endFrame": 15816
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-6",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-2",
+      "text": "继续交涉，则要承受顾问和国内的压力，",
+      "startFrame": 15828,
+      "endFrame": 15918,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19"
+      ],
+      "observedRange": {
+        "startFrame": 15828,
+        "endFrame": 15907
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-7",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-2",
+      "text": "还要承担对方可能进一步行动的风险。",
+      "startFrame": 15918,
+      "endFrame": 16018,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c20",
+        "run-0-c21"
+      ],
+      "observedRange": {
+        "startFrame": 15918,
+        "endFrame": 15993
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-8",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-3",
+      "text": "肯尼迪暂时压住了一次升级，并不意味着他已经掌控整个现场。",
+      "startFrame": 16018,
+      "endFrame": 16168,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 16018,
+        "endFrame": 16155
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-u2-27-caption-9",
+      "nodeId": "u2-27",
+      "shotId": "u2-27-beat-3",
+      "text": "海空部队仍在行动，下一次接触会被怎样理解，没有人能够保证。",
+      "startFrame": 16168,
+      "endFrame": 16344,
+      "trackId": "narration-u2-27",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25",
+        "run-0-c26"
+      ],
+      "observedRange": {
+        "startFrame": 16168,
+        "endFrame": 16319
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-0",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-1",
+      "text": "海面之下，也有白宫和克里姆林宫难以及时看清的危险。",
+      "startFrame": 16349,
+      "endFrame": 16497,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1-p1",
+        "run-0-c1-p2",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 16349,
+        "endFrame": 16470
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-1",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-1",
+      "text": "后来公开的苏方任务报告记载，赴古巴的四艘潜艇，每艘都带有一枚核鱼雷。",
+      "startFrame": 16497,
+      "endFrame": 16700,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 16497,
+        "endFrame": 16686
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-2",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-1",
+      "text": "B-59潜艇在搜索压力下最终浮出，报告还记下了电池耗尽等情况。",
+      "startFrame": 16700,
+      "endFrame": 16890,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 16700,
+        "endFrame": 16878
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-3",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-2",
+      "text": "美国的识别规则设计了爆炸声信号，",
+      "startFrame": 16890,
+      "endFrame": 16976,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9",
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 16890,
+        "endFrame": 16961
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-4",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-2",
+      "text": "目的是迫使潜艇浮出，并非发动致命攻击。",
+      "startFrame": 16976,
+      "endFrame": 17108,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11",
+        "run-0-c12",
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 16976,
+        "endFrame": 17088
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-5",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-2",
+      "text": "但美方想传达什么，艇内的人怎样理解，不是一回事。",
+      "startFrame": 17108,
+      "endFrame": 17247,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14",
+        "run-0-c15",
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 17108,
+        "endFrame": 17234
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-6",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-2",
+      "text": "通信受限、疲惫和对战争是否已经开始的疑问，都可能让信号变成威胁。",
+      "startFrame": 17247,
+      "endFrame": 17412,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19",
+        "run-0-c20",
+        "run-0-c21"
+      ],
+      "observedRange": {
+        "startFrame": 17247,
+        "endFrame": 17402
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-7",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-3",
+      "text": "关于舰长曾下令准备核鱼雷的具体说法，",
+      "startFrame": 17412,
+      "endFrame": 17499,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 17412,
+        "endFrame": 17488
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-8",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-3",
+      "text": "主要来自多年后的参与者回忆，同期任务报告没有记下这场发射争议。",
+      "startFrame": 17499,
+      "endFrame": 17661,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25",
+        "run-0-c26",
+        "run-0-c27"
+      ],
+      "observedRange": {
+        "startFrame": 17499,
+        "endFrame": 17655
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-9",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-3",
+      "text": "因此，不能把“三人投票”“只差几秒”或",
+      "startFrame": 17661,
+      "endFrame": 17723,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c28-p1"
+      ],
+      "observedRange": {
+        "startFrame": 17661,
+        "endFrame": 17723
+      }
+    },
+    {
+      "id": "narration-b59-risk-caption-10",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-3",
+      "text": "“一个人救了世界”，讲成已经由当时日志证实的情节。",
+      "startFrame": 17723,
+      "endFrame": 17868,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c28-p2",
+        "run-0-c28-p3",
+        "run-0-c29"
+      ],
+      "observedRange": {
+        "startFrame": 17723,
+        "endFrame": 17859
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-11",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-4",
+      "text": "即使不采用这些戏剧化细节，",
+      "startFrame": 17868,
+      "endFrame": 17928,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c30",
+        "run-0-c31"
+      ],
+      "observedRange": {
+        "startFrame": 17868,
+        "endFrame": 17922
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-b59-risk-caption-12",
+      "nodeId": "b59-risk",
+      "shotId": "b59-risk-beat-4",
+      "text": "核武器与强制浮出行动相遇，本身已经足够危险。",
+      "startFrame": 17928,
+      "endFrame": 18067,
+      "trackId": "narration-b59-risk",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c32"
+      ],
+      "observedRange": {
+        "startFrame": 17928,
+        "endFrame": 18042
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-0",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-1",
+      "text": "27日晚，肯尼迪公开回应赫鲁晓夫26日的来信，",
+      "startFrame": 18078,
+      "endFrame": 18212,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 18078,
+        "endFrame": 18200
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-1",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-1",
+      "text": "抓住了较容易公开接受的那条退路：",
+      "startFrame": 18212,
+      "endFrame": 18309,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 18212,
+        "endFrame": 18283
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-2",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-1",
+      "text": "苏方撤除有关武器，在联合国安排下核查，",
+      "startFrame": 18309,
+      "endFrame": 18412,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6",
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 18309,
+        "endFrame": 18404
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-3",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-1",
+      "text": "美方相应解除隔离，并给予不入侵保证。",
+      "startFrame": 18412,
+      "endFrame": 18528,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 18412,
+        "endFrame": 18516
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-4",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-1",
+      "text": "公开回复没有承诺用土耳其导弹直接交换。",
+      "startFrame": 18528,
+      "endFrame": 18648,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 18528,
+        "endFrame": 18636
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-5",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-2",
+      "text": "同一晚，司法部长罗伯特·肯尼迪秘密会见苏联驻美大使多勃雷宁，",
+      "startFrame": 18648,
+      "endFrame": 18811,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11",
+        "run-0-c12-p1",
+        "run-0-c12-p2"
+      ],
+      "observedRange": {
+        "startFrame": 18648,
+        "endFrame": 18800
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-6",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-2",
+      "text": "谈到了美国将撤除土耳其朱庇特导弹，但不公开宣布这项安排。",
+      "startFrame": 18811,
+      "endFrame": 18968,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13",
+        "run-0-c14",
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 18811,
+        "endFrame": 18959
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-7",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-3",
+      "text": "罗伯特·肯尼迪三天后写的备忘录，与赫鲁晓夫28日的私信，可以互相对照；",
+      "startFrame": 18968,
+      "endFrame": 19149,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16",
+        "run-0-c17",
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 18968,
+        "endFrame": 19132
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-8",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-3",
+      "text": "前者还留下四五个月期限的文字被删去的痕迹。",
+      "startFrame": 19149,
+      "endFrame": 19263,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19",
+        "run-0-c20",
+        "run-0-c21"
+      ],
+      "observedRange": {
+        "startFrame": 19149,
+        "endFrame": 19255
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-9",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-3",
+      "text": "所以，既不能说美国完全没有让步，",
+      "startFrame": 19263,
+      "endFrame": 19345,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 19263,
+        "endFrame": 19336
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-10",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-3",
+      "text": "也不能说双方当众签下了同时交换导弹的完整协议。",
+      "startFrame": 19345,
+      "endFrame": 19471,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25"
+      ],
+      "observedRange": {
+        "startFrame": 19345,
+        "endFrame": 19454
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-11",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-4",
+      "text": "更准确的理解，是公开解决框架之外，还有处理土耳其导弹的保密谅解。",
+      "startFrame": 19471,
+      "endFrame": 19641,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c26",
+        "run-0-c27",
+        "run-0-c28",
+        "run-0-c29",
+        "run-0-c30"
+      ],
+      "observedRange": {
+        "startFrame": 19471,
+        "endFrame": 19629
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-two-track-agreement-caption-12",
+      "nodeId": "two-track-agreement",
+      "shotId": "two-track-agreement-beat-4",
+      "text": "两条安排共同为退出对抗创造了空间。",
+      "startFrame": 19641,
+      "endFrame": 19759,
+      "trackId": "narration-two-track-agreement",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c31"
+      ],
+      "observedRange": {
+        "startFrame": 19641,
+        "endFrame": 19732
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-0",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-1",
+      "text": "28日，莫斯科广播公布赫鲁晓夫接受解决方案、",
+      "startFrame": 19764,
+      "endFrame": 19879,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 19764,
+        "endFrame": 19871
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-1",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-1",
+      "text": "拆除并撤走古巴导弹的决定。",
+      "startFrame": 19879,
+      "endFrame": 19960,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 19879,
+        "endFrame": 19946
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-2",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-1",
+      "text": "美国谨慎欢迎这一消息。“十三天”的危险高峰终于过去，",
+      "startFrame": 19960,
+      "endFrame": 20086,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5",
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 19960,
+        "endFrame": 20074
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-3",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-1",
+      "text": "双方不再只剩下继续施压或发动攻击的选择。",
+      "startFrame": 20086,
+      "endFrame": 20192,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9",
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 20086,
+        "endFrame": 20184
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-4",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-2",
+      "text": "但广播里宣布撤弹，和所有设备已经运走，是两件事。",
+      "startFrame": 20192,
+      "endFrame": 20333,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11-p1",
+        "run-0-c11-p2"
+      ],
+      "observedRange": {
+        "startFrame": 20192,
+        "endFrame": 20319
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-5",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-2",
+      "text": "拆卸、运输、核查，以及怎样解释各项承诺，仍然需要继续交涉。",
+      "startFrame": 20333,
+      "endFrame": 20534,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12",
+        "run-0-c13",
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 20333,
+        "endFrame": 20524
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-6",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-3",
+      "text": "古巴也没有因为美苏达成安排就自动满意。",
+      "startFrame": 20534,
+      "endFrame": 20631,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 20534,
+        "endFrame": 20618
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-7",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-3",
+      "text": "苏联驻古大使11月2日的报告，记录了卡斯特罗对撤弹处置的不满。",
+      "startFrame": 20631,
+      "endFrame": 20783,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16",
+        "run-0-c17",
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 20631,
+        "endFrame": 20777
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-8",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-3",
+      "text": "苏联帮助古巴增强防御，",
+      "startFrame": 20783,
+      "endFrame": 20845,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19"
+      ],
+      "observedRange": {
+        "startFrame": 20783,
+        "endFrame": 20837
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-9",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-3",
+      "text": "却又在对美交涉中决定撤除，盟友之间的风险和控制权问题，就这样显露出来。",
+      "startFrame": 20845,
+      "endFrame": 21043,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c20",
+        "run-0-c21",
+        "run-0-c22"
+      ],
+      "observedRange": {
+        "startFrame": 20845,
+        "endFrame": 21026
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-10",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-3",
+      "text": "最急迫的对抗获得了退路，",
+      "startFrame": 21043,
+      "endFrame": 21103,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c23",
+        "run-0-c24"
+      ],
+      "observedRange": {
+        "startFrame": 21043,
+        "endFrame": 21091
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-withdrawal-28-caption-11",
+      "nodeId": "withdrawal-28",
+      "shotId": "withdrawal-28-beat-3",
+      "text": "围绕安全、主权和信任的矛盾，却不会随着一则声明一同消失。",
+      "startFrame": 21103,
+      "endFrame": 21282,
+      "trackId": "narration-withdrawal-28",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c25",
+        "run-0-c26",
+        "run-0-c27"
+      ],
+      "observedRange": {
+        "startFrame": 21103,
+        "endFrame": 21258
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-0",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-1",
+      "text": "接下来，承诺必须变成看得见的撤除。",
+      "startFrame": 21291,
+      "endFrame": 21399,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 21291,
+        "endFrame": 21384
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-1",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-1",
+      "text": "导弹从发射场拆下，还要装船运离古巴；",
+      "startFrame": 21399,
+      "endFrame": 21515,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 21399,
+        "endFrame": 21500
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-2",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-1",
+      "text": "美国则继续通过海上安排与侦察，确认撤除进展。",
+      "startFrame": 21515,
+      "endFrame": 21655,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 21515,
+        "endFrame": 21642
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-3",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-2",
+      "text": "11月7日，“金属工人阿诺索夫”号离开古巴，",
+      "startFrame": 21655,
+      "endFrame": 21777,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 21655,
+        "endFrame": 21762
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-4",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-2",
+      "text": "留下了载有帆布覆盖导弹运输车辆的照片。",
+      "startFrame": 21777,
+      "endFrame": 21873,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9",
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 21777,
+        "endFrame": 21851
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-5",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-2",
+      "text": "但一艘船驶离，并不能证明全部有关武器都已撤尽。",
+      "startFrame": 21873,
+      "endFrame": 21997,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11",
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 21873,
+        "endFrame": 21985
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-6",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-3",
+      "text": "IL-28轰炸机又成为后续交涉的议题，",
+      "startFrame": 21997,
+      "endFrame": 22111,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13",
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 21997,
+        "endFrame": 22092
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-7",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-3",
+      "text": "美国直到11月20日才解除海上隔离。",
+      "startFrame": 22111,
+      "endFrame": 22218,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 22111,
+        "endFrame": 22203
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-8",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-3",
+      "text": "原先设想的古巴境内国际检查，也没有按计划实现。",
+      "startFrame": 22218,
+      "endFrame": 22354,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 22218,
+        "endFrame": 22333
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-9",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-4",
+      "text": "另一条执行线更晚：",
+      "startFrame": 22354,
+      "endFrame": 22409,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 22354,
+        "endFrame": 22398
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-10",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-4",
+      "text": "土耳其的朱庇特导弹在1963年4月撤除。",
+      "startFrame": 22409,
+      "endFrame": 22531,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19",
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 22409,
+        "endFrame": 22522
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-11",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-4",
+      "text": "这样看，危机的结局有一个过程：",
+      "startFrame": 22531,
+      "endFrame": 22614,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c21",
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 22531,
+        "endFrame": 22602
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-12",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-4",
+      "text": "10月28日先形成政治退路，随后落实武器和海上安排，再兑现保密谅解。",
+      "startFrame": 22614,
+      "endFrame": 22790,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25",
+        "run-0-c26"
+      ],
+      "observedRange": {
+        "startFrame": 22614,
+        "endFrame": 22784
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-verification-november-caption-13",
+      "nodeId": "verification-november",
+      "shotId": "verification-november-beat-4",
+      "text": "真正让局势改变的，不只是承诺本身，还有这些并不容易完成的步骤。",
+      "startFrame": 22790,
+      "endFrame": 22959,
+      "trackId": "narration-verification-november",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c27",
+        "run-0-c28",
+        "run-0-c29",
+        "run-0-c30",
+        "run-0-c31"
+      ],
+      "observedRange": {
+        "startFrame": 22790,
+        "endFrame": 22935
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-0",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-1",
+      "text": "危机也让美苏看到，消息传得慢、渠道彼此重叠、意图难以确认，会增加怎样的危险。",
+      "startFrame": 22966,
+      "endFrame": 23200,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 22966,
+        "endFrame": 23189
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-1",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-1",
+      "text": "1963年6月20日，两国在日内瓦签署并使直接通信链路备忘录生效，",
+      "startFrame": 23200,
+      "endFrame": 23360,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5",
+        "run-0-c6-p1",
+        "run-0-c6-p2"
+      ],
+      "observedRange": {
+        "startFrame": 23200,
+        "endFrame": 23352
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-2",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-1",
+      "text": "为紧急情况建立持续运行、及时把消息送达政府首脑的机制。",
+      "startFrame": 23360,
+      "endFrame": 23501,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7",
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 23360,
+        "endFrame": 23495
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-3",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-1",
+      "text": "这就是后来常说的华盛顿与莫斯科热线。",
+      "startFrame": 23501,
+      "endFrame": 23577,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10",
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 23501,
+        "endFrame": 23568
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-4",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-2",
+      "text": "它最初是传送文字消息的电传链路，并不是两位领导人可以直接互拨的红色电话。",
+      "startFrame": 23577,
+      "endFrame": 23753,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12",
+        "run-0-c13",
+        "run-0-c14",
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 23577,
+        "endFrame": 23739
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-5",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-2",
+      "text": "遇到需要迅速澄清的情况，直接渠道能够减少延误和误解。",
+      "startFrame": 23753,
+      "endFrame": 23877,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16",
+        "run-0-c17",
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 23753,
+        "endFrame": 23870
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-6",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-3",
+      "text": "但通信更快，并不能让政治分歧自动消失。",
+      "startFrame": 23877,
+      "endFrame": 23991,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19"
+      ],
+      "observedRange": {
+        "startFrame": 23877,
+        "endFrame": 23981
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-7",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-3",
+      "text": "双方只是试着把一项已经暴露的危险，变成可以具体改进的机制。",
+      "startFrame": 23991,
+      "endFrame": 24143,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c20",
+        "run-0-c21",
+        "run-0-c22"
+      ],
+      "observedRange": {
+        "startFrame": 23991,
+        "endFrame": 24127
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-hotline-1963-caption-8",
+      "nodeId": "hotline-1963",
+      "shotId": "hotline-1963-beat-3",
+      "text": "与此同时，另一个范围有限、却同样重要的合作，也取得了进展。",
+      "startFrame": 24143,
+      "endFrame": 24323,
+      "trackId": "narration-hotline-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c23",
+        "run-0-c24",
+        "run-0-c25"
+      ],
+      "observedRange": {
+        "startFrame": 24143,
+        "endFrame": 24296
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-0",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-1",
+      "text": "1963年，美、苏、英签署有限禁止核试验条约，",
+      "startFrame": 24331,
+      "endFrame": 24476,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 24331,
+        "endFrame": 24463
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-1",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-1",
+      "text": "禁止在大气层、外空和水下进行核试验，却没有禁止地下核试验。",
+      "startFrame": 24476,
+      "endFrame": 24635,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3",
+        "run-0-c4",
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 24476,
+        "endFrame": 24622
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-2",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-1",
+      "text": "这是有限的军控成果，并不是全面裁军。",
+      "startFrame": 24635,
+      "endFrame": 24724,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6",
+        "run-0-c7",
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 24635,
+        "endFrame": 24712
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-3",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-2",
+      "text": "谈判也并非危机之后才突然开始：早在1958年，",
+      "startFrame": 24724,
+      "endFrame": 24847,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9",
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 24724,
+        "endFrame": 24839
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-4",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-2",
+      "text": "各方就已展开禁试谈判，",
+      "startFrame": 24847,
+      "endFrame": 24914,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 24847,
+        "endFrame": 24903
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-5",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-2",
+      "text": "长期争执包括怎样核查地下爆炸，以及是否允许现场检查。",
+      "startFrame": 24914,
+      "endFrame": 25081,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12-p1",
+        "run-0-c12-p2"
+      ],
+      "observedRange": {
+        "startFrame": 24914,
+        "endFrame": 25069
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-6",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-2",
+      "text": "古巴危机增强了避免核灾难的动力，",
+      "startFrame": 25081,
+      "endFrame": 25189,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13",
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 25081,
+        "endFrame": 25172
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-7",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-2",
+      "text": "而缩小协议范围，让更容易达成的部分先取得了进展。",
+      "startFrame": 25189,
+      "endFrame": 25332,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15",
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 25189,
+        "endFrame": 25308
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-8",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-2",
+      "text": "合作需要动力，也需要具体取舍。",
+      "startFrame": 25332,
+      "endFrame": 25429,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19"
+      ],
+      "observedRange": {
+        "startFrame": 25332,
+        "endFrame": 25412
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-9",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-3",
+      "text": "美苏更清楚核对抗失控的代价，愿意在部分问题上合作，",
+      "startFrame": 25429,
+      "endFrame": 25560,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c20",
+        "run-0-c21",
+        "run-0-c22"
+      ],
+      "observedRange": {
+        "startFrame": 25429,
+        "endFrame": 25547
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-10",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-3",
+      "text": "同时又保留核武器、同盟体系和竞争。",
+      "startFrame": 25560,
+      "endFrame": 25651,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 25560,
+        "endFrame": 25637
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-test-ban-1963-caption-11",
+      "nodeId": "test-ban-1963",
+      "shotId": "test-ban-1963-beat-3",
+      "text": "避免了一场战争，并不等于从此建立了一个不会再发生危险的世界。",
+      "startFrame": 25651,
+      "endFrame": 25817,
+      "trackId": "narration-test-ban-1963",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25",
+        "run-0-c26"
+      ],
+      "observedRange": {
+        "startFrame": 25651,
+        "endFrame": 25790
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-0",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-1",
+      "text": "回头看，究竟是什么让双方退了回来？",
+      "startFrame": 25820,
+      "endFrame": 25923,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 25820,
+        "endFrame": 25907
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-1",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-1",
+      "text": "军事压力让古巴导弹不能继续搁置，暂不攻击又给谈判留下了时间。",
+      "startFrame": 25923,
+      "endFrame": 26111,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 25923,
+        "endFrame": 26101
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-2",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-1",
+      "text": "不入侵保证回应了古巴的安全问题，",
+      "startFrame": 26111,
+      "endFrame": 26177,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5",
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 26111,
+        "endFrame": 26173
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-3",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-1",
+      "text": "秘密处理土耳其导弹，让苏方能够接受退路。",
+      "startFrame": 26177,
+      "endFrame": 26271,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 26177,
+        "endFrame": 26263
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-4",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-2",
+      "text": "此后，拆除、运输与核查，又把政治承诺变成了实际变化。",
+      "startFrame": 26271,
+      "endFrame": 26442,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8",
+        "run-0-c9",
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 26271,
+        "endFrame": 26425
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-5",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-2",
+      "text": "这些因素相互影响，很难把结局归给某一个人的强硬，或某一封信的巧妙。",
+      "startFrame": 26442,
+      "endFrame": 26633,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11",
+        "run-0-c12",
+        "run-0-c13",
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 26442,
+        "endFrame": 26615
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-6",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-2",
+      "text": "安德森的死亡和潜艇的遭遇，还提醒我们：",
+      "startFrame": 26633,
+      "endFrame": 26726,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15",
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 26633,
+        "endFrame": 26711
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-7",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-2",
+      "text": "领导人正在谈判，现场仍可能把他们推向更危险的方向。",
+      "startFrame": 26726,
+      "endFrame": 26876,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18",
+        "run-0-c19",
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 26726,
+        "endFrame": 26858
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-8",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-3",
+      "text": "理解这场危机，可以始终追问：",
+      "startFrame": 26876,
+      "endFrame": 26952,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c21",
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 26876,
+        "endFrame": 26942
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-9",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-3",
+      "text": "各方害怕失去什么，他们当时知道多少，",
+      "startFrame": 26952,
+      "endFrame": 27048,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25"
+      ],
+      "observedRange": {
+        "startFrame": 26952,
+        "endFrame": 27038
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-10",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-3",
+      "text": "对手会怎样理解自己的行动，",
+      "startFrame": 27048,
+      "endFrame": 27112,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c26",
+        "run-0-c27"
+      ],
+      "observedRange": {
+        "startFrame": 27048,
+        "endFrame": 27098
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-11",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-3",
+      "text": "又有没有一条能说明、兑现并核查的退路？",
+      "startFrame": 27112,
+      "endFrame": 27223,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c28",
+        "run-0-c29"
+      ],
+      "observedRange": {
+        "startFrame": 27112,
+        "endFrame": 27212
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-12",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-3",
+      "text": "这段历史既让我们看到，政治选择能够阻止升级，",
+      "startFrame": 27223,
+      "endFrame": 27348,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c30"
+      ],
+      "observedRange": {
+        "startFrame": 27223,
+        "endFrame": 27335
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "narration-what-explains-outcome-caption-13",
+      "nodeId": "what-explains-outcome",
+      "shotId": "what-explains-outcome-beat-3",
+      "text": "也让我们看到，任何人对危险的控制都远非无所不能。",
+      "startFrame": 27348,
+      "endFrame": 27493,
+      "trackId": "narration-what-explains-outcome",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c31",
+        "run-0-c32",
+        "run-0-c33"
+      ],
+      "observedRange": {
+        "startFrame": 27348,
+        "endFrame": 27470
+      },
+      "displayEndOrigin": "reconstructed_design"
+    }
+  ]
+}
